@@ -10,6 +10,9 @@ http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:0, T Sports HD 💥 Live 💥 Akash DTH
 http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
 
+#EXTINF:0, T Sports HD 1💥 Live 💥 Akash DTH
+http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
+
 #EXTINF:0, Gazi TV 💥 Live 💥 Akash DTH
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
@@ -82,10 +85,13 @@ https://sportsleading.online/live/stream_7.m3u8
 https://gobezwoo.xyz/chunklist/hlsch4.m3u8
 #EXTINF:-1 , ✅ Saudi Pro League Live Match ✅
 https://af.ayassport.ir/hls2/ssc1.m3u8
+#EXTINF:-1 ,✅ Saudi Pro League Live Match ✅SSQ1
+http://89.105.216.22:8080/live/bebosn/bebosn/52.m3u8
+
 #EXTINF:-1 ,
 
-#EXTINF:-1 ,Sony Liv
-https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
+#EXTINF:-1 ,Sky open (English) 
+https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
 
 
 #EXTINF:-1 ,live football
