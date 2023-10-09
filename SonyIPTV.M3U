@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:0, 🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
 http://10.111.200.30/live/feed1001/index.m3u8
 
@@ -16,23 +15,11 @@ http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:0, Gazi TV 💥 Live 💥 Akash DTH
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 , Gazi TV ICC world cup 💥 Live 💥
-http://103.7.4.54/Gazi-TV/index.m3u8?token=7du8JE0_2OUbF0
-
-#EXTINF:-1 , Gazi TV 💥 Live 💥aynaott
-https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 ,T Sports BD ICC Would cup 💥 Live 💥
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 
-#EXTINF:-1 , Gazi TV 🇧🇩 CRICKET WORLD CUP 📺
-http://103.7.4.54/Gazi-TV/index.m3u8?token=7du8JE0_2OUbF0
-
 #EXTINF:-1 ,T Sports BD ICC CRICKET WORLD CUP 📺
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
-
-#EXTINF:-1 , ✅ ICC World Cup live ✅ 
-http://tv.bdiptv24.online/live/star1/jointelegram@freeiptv25.m3u8
 
 #EXTINF:-1 , ✅ ICC World Cup live ✅ Hindi
 http://103.175.242.10:8080/ICC23/tracks-v1a1/mono.m3u8
@@ -55,24 +42,14 @@ https://sportsleading.online/live/stream_e3.m3u8
 #EXTINF:-1 , Star Sports 1 (Mobitel Data FREE) 💥 Live 💥
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
-#EXTINF:-1 ,Star Sports 1 💥 Live 💥
-https://gobezwoo.xyz/chunklist/hlsch24.m3u8
-
 #EXTINF:-1 ,Star Sports 1 SD 💥 Live 💥
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-
-#EXTINF:-1 ,Star Sports 1 HD** 💥 Live 💥
-https://gobezwoo.xyz/chunklist/hlsch24.m3u8
 
 #EXTINF:-1 ,Astro Cricket HD** 💥 Live 💥
 http://37.49.225.145:8080/live/Miglior/rk8mEWJQMwyDZ9bYU35uPt/157565.m3u8
 
 #EXTINF:-1 ,Astro Cricket HD** ✅💥 Live 💥✅ BapaTV
-http://103.175.242.10:8080/ASTRO_Cricket/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 , Nikunjjo TV 💥 Live 💥
-https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CvkEeQQgsB1jmCHPGKPwzLPTAORPt1kKC9zPKyk0NTp3HMdgG08S5oJ8SNMI3smRIudJl-QM_KPJUx2RpoC4Rn8bpJa8Igq5KkV516H2PyXvT4gf2JKVM4bOUWf7X7nm8AbZbgWGX4HbN3v2xUhU5P2T_cOdrR8bNMyWE02527_xMvQnRliOmnLZL7WJl4G8iOnYC8LlUPf-Xdv0-vISwSuwd5L4Kw_5XyXRuMIQjr2GSH9CA7m59WRJRTTM7CQ2YFGRhU3fOXwBXbXkQ6NkjBnsvWR6QLdFOCskPxGzd8nvEcdeEYCefUcK9m8WPNztNTaDCs9KZYZL2ONYsCHYE0Oavmqp3Nfx38E8Ecyo9wBaHeejT-ORh9c9jqFCv9eZqT3UySJvEGFKqx5ldhvd6D7lmFXBIG1PayhOoUBpC_nF4N2wje5_w1rC7WaMrNG-VODag_XYOyG4V3mIGTzLoPDDaWk71xgH3Ft1yAoK-t62BmqMe_gxxbk3oy9LFo48HnAWAmodsbTjxDheaWxIwN-EAauPoiCF-X5Y1uzQCCBGbRHB-Sy-MixOLaCAn-9d4kpxN6ePGMWkPXXpCMcMpGaKnDjqJGgJXXV2T1W8u3IlhQ-7Ft7nCTXGRQotlFIBl82qVx70kw301xdi1HzuAkWS7qWXiWlPjNT5UDWz2n-Oi-b_qKM4wNS89JN3pcG_23izpMmR0TbOq0zJT-R3Qxh270MqRczqXScWhVFsKE_iQAwg5N1nqkuFn4ldWsWJYIZt4WwpScyDqNZbOL5-ogbiG-p19vv9WG0tqhmXS4mPXfElgm1Vat8MQivDpai7VPfcJoVMKj1MoPBZGgxN7Wk7VaycQc1rzocgASoJdXMtd2VzdC0yMNoH.m3u8
-
+https://tvs1.aynaott.com/astrocrickethd/index.m3u8?hdnts=st=1696858767~exp=1696901967~acl=/*~data=45.61.146.183-WEB~hmac=443fb34612db3b008da21b46fe52b21cf1e25711fe6c77af8d6d7fa14a6114ad
 
 
 #EXTINF:-1 ,Al Hilal Saudi Pro League
@@ -120,13 +97,19 @@ https://stream.ayas.ir/hls2/bein3.m3u8
 #EXTINF:-1 ,BEIN Sports 4  🪛
 https://stream.ayas.ir/hls2/bein4.m3u8
 
-#EXTINF:-1 , Sky open (English) 
-https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
-
 #EXTINF:-1 , Sky Sports f1
 https://gobezwoo.xyz/chunklist/hlsch10.m3u8
 
 #EXTINF:-1 ,live football
 https://live-ak.vimeocdn.com:443/exp=1696607056~acl=%2Fc0d79172-4a44-452a-bf90-66796e06d683%2F%2A~hmac=f997cf146d521e4326b0e42ad424a5cf848783b61a2f9dc56369aaaf1429c3de/c0d79172-4a44-452a-bf90-66796e06d683/chunklist_b3256000.m3u8
 
-#EXTINF:-1 ,PTV SPORTS HD
+#EXTINF:-1 ,PTV SPORTS HD BDIX Supported 
+http://103.141.2.38/hls/ptv.m3u8
+
+#EXTINF:-1 ,GTV HD BDIX Supported 
+http://103.141.2.38/hls/Gazi-TV.m3u8
+
+#EXTINF:-1 ,Sony Ten 5 HD BDIX Supported 
+http://103.141.2.38/hls/sonysix.m3u8
+
+
