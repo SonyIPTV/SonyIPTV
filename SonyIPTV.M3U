@@ -36,6 +36,8 @@ http://tv.bdiptv24.online/live/star1/jointelegram@freeiptv25.m3u8
 #EXTINF:-1 , ICC World Cup live 💥 Live 💥
 https://b7bi.short.gy/FREOTV.m3u8
 
+#EXTINF:-1 , Hoster Live 1 ✅💥 Live 💥✅
+https://sportsleading.online/live/stream_e1.m3u8
 
 #EXTINF:-1 , Hoster Live 1 💥 Live 💥
 https://sportsleading.online/live/stream_e1_abr.m3u8
@@ -46,7 +48,7 @@ https://sportsleading.online/live/stream_e2.m3u8
 #EXTINF:-1 , Hoster Live 3 💥 Live 💥
 https://sportsleading.online/live/stream_e3.m3u8
 
-#EXTINF:-1 ,Star Sports 1 (Mobitel Data FREE) 💥 Live 💥
+#EXTINF:-1 , Star Sports 1 (Mobitel Data FREE) 💥 Live 💥
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
 #EXTINF:-1 ,Star Sports 1 💥 Live 💥
@@ -55,10 +57,8 @@ https://gobezwoo.xyz/chunklist/hlsch24.m3u8
 #EXTINF:-1 ,Star Sports 1 SD 💥 Live 💥
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
-#EXTINF:-1 ,Astro Cricket HD** ( Ads FREE ) 💥 Live 💥
-https://bdiixx.goutammal1.repl.co/6m/?id=astrocric
-
-http://165.232.180.60/tharindu/match2.m3u8
+#EXTINF:-1 ,Star Sports 1 HD** 💥 Live 💥
+https://gobezwoo.xyz/chunklist/hlsch24.m3u8
 
 #EXTINF:-1 ,Astro Cricket HD** 💥 Live 💥
 http://37.49.225.145:8080/live/Miglior/rk8mEWJQMwyDZ9bYU35uPt/157565.m3u8
@@ -90,6 +90,8 @@ https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1696751347~exp=1696794547
 https://work.312work312.pro/live/n-5/chunks.m3u8
 #EXTINF:-1 , ✅ 𝐋𝐈𝐍𝐊 LA LIGA  ✅ 
 https://sportsleading.online/live/stream_7.m3u8 
+#EXTINF:-1 , ✅ Sky Sports Football ✅ 
+https://sportsleading.online/live/stream_1.m3u8
 
 #EXTINF:-1 , ✅ Laliga Live Match ✅ 
 https://gobezwoo.xyz/chunklist/hlsch4.m3u8
@@ -112,6 +114,8 @@ https://stream.ayas.ir/hls2/bein4.m3u8
 #EXTINF:-1 , Sky open (English) 
 https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
 
+#EXTINF:-1 , Sky Sports f1
+https://gobezwoo.xyz/chunklist/hlsch10.m3u8
 
 #EXTINF:-1 ,live football
 https://live-ak.vimeocdn.com:443/exp=1696607056~acl=%2Fc0d79172-4a44-452a-bf90-66796e06d683%2F%2A~hmac=f997cf146d521e4326b0e42ad424a5cf848783b61a2f9dc56369aaaf1429c3de/c0d79172-4a44-452a-bf90-66796e06d683/chunklist_b3256000.m3u8
