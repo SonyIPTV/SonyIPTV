@@ -3,8 +3,15 @@
 #EXTINF:0, 🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
 http://10.111.200.30/live/feed1001/index.m3u8
 
-#EXTINF:0, 22 Sports HD 💥 💥
-https://sports.yunyingtiandi.com/live/m32684274/playlist.m3u8
+#EXTINF:0, 💥T Sports HD 💥 💥
+https://sycosohan.fun/T_Sports_HD/Sohan-Vai.m3u8
+
+#EXTINF:0, 🔲 TLT  🇺🇸🔲 
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+
+#EXTINF:0, 🔲 Toffee World Wide🔲
+https://gflix.fun/stream/index.m3u8
+
 
 #EXTINF:0, T Sports HD 💥 Offical Live 💥
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
@@ -75,8 +82,8 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1696751347~exp=1696794547~acl=/*~data=45.61.146.183-WEB~hmac=4646e32bf220b94b19b0f06b178a4fe93eeaf8ab31803cd496c196f941f3eb34
 #EXTINF:-1 ,
 
-#EXTINF:-1 ,
-
+#EXTINF:-1 , ✅ Samma TV ✅
+https://ythls.onrender.com/channel/UCJekW1Vj5fCVEGdye_mBN6Q.m3u8
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,✅ Super Sports Football ✅
