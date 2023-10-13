@@ -70,6 +70,15 @@ http://37.49.225.145:8080/live/Miglior/rk8mEWJQMwyDZ9bYU35uPt/157565.m3u8
 #EXTINF:-1 ,Astro Cricket HD** ✅💥Live💥✅ 
 http://37.49.225.145:8080/live/Miglior/rk8mEWJQMwyDZ9bYU35uPt/157565.m3u8
 
+#EXTINF:-1 ,Fox Cricket HD** ✅💥Live💥✅ 
+http://filex.tv:8080/live/Beesever/01620182/200797.m3u8
+
+#EXTINF:-1 ,Ten Cricket HD** ✅💥Live💥✅ 
+http://filex.tv:8080/live/Beesever/01620182/200796.m3u8
+
+#EXTINF:-1 ,Willow Cricket HD** ✅💥Live💥✅ 
+http://filex.tv:8080/live/Beesever/01620182/52109.m3u8
+
 #EXTINF:-1 ,Gazi TV ICC 
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Star sports 1 HD
@@ -126,4 +135,20 @@ http://103.141.2.38/hls/Gazi-TV.m3u8
 #EXTINF:-1 ,Sony Ten 5 HD BDIX Supported 
 http://103.141.2.38/hls/sonysix.m3u8
 
+#EXTINF:-1 , T Sports 1 HD Speed internet
+http://11plus.live/live/tsports/index.m3u8
 
+#EXTINF:-1 , Gazi Sports HD Speed internet
+http://11plus.live/live/Gazi-TV/index.m3u8
+
+#EXTINF:-1 , Star Sports 1 HD Speed internet
+http://11plus.live/live/stersports1hd/index.m3u8
+
+#EXTINF:-1 , Star Sports 2 HD Speed internet
+http://11plus.live/live/starsports2/index.m3u8
+ 
+#EXTINF:-1 , PTV HD Speed internet
+http://11plus.live/live/ptv/index.m3u8
+
+#EXTINF:-1 , Star Sports SL 1 HD Speed internet
+http://11plus.live/live/Star_Sport_Select1HD/index.m3u8
