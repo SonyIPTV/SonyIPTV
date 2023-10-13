@@ -3,15 +3,11 @@
 #EXTINF:0, 🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
 http://10.111.200.30/live/feed1001/index.m3u8
 
-#EXTINF:0, 💥T Sports HD 💥 💥
+#EXTINF:0, 💥T Sports HD 💥 ✅
 https://sycosohan.fun/T_Sports_HD/Sohan-Vai.m3u8
 
-#EXTINF:0, 🔲 TLT  🇺🇸🔲 
+#EXTINF:0, 🔲 TLT  🇺🇸🔲 ✅
 http://cdn.live247stream.com/thelight/tv/playlist.m3u8
-
-#EXTINF:0, 🔲 Toffee World Wide🔲
-https://gflix.fun/stream/index.m3u8
-
 
 #EXTINF:0, T Sports HD 💥 Offical Live 💥
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
@@ -19,31 +15,22 @@ https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:0, T Sports HD 💥Live💥
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 
-#EXTINF:0, T Sports HD 💥Live💥 Akash DTH
+#EXTINF:0, T Sports HD 💥Live💥 Akash DTH ✅
 http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
 
-#EXTINF:0, T Sports HD 1💥Live💥Akash DTH
+#EXTINF:0, T Sports HD 1💥Live💥Akash DTH ✅
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, Gazi TV 💥Live💥 Akash DTH
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,T Sports BD ICC Would cup 💥Live💥
+#EXTINF:-1 ,Gazi TV ICC ✅
+http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 , T Sports BD ICC CRICKET WORLD CUP 📺 ✅
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 
-#EXTINF:-1 ,T Sports BD ICC CRICKET WORLD CUP 📺
-http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
-
-#EXTINF:-1 ,Willow HD 💥Live💥
-http://103.180.112.66:8080/gazitv/index.m3u8
-
-#EXTINF:-1 ,Willow HD 💥Live💥1
-https://cdn2.streamcast.xyz:440/cwc1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 , ✅ ICC World Cup live ✅ Hindi
-http://103.175.242.10:8080/ICC23/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 , ICC World Cup live 💥Live💥
+#EXTINF:-1 , ICC World Cup live 💥Live💥✅
 https://b7bi.short.gy/FREOTV.m3u8
 
 #EXTINF:-1 , Hoster Live 1 ✅💥Live💥✅
@@ -52,58 +39,21 @@ https://sportsleading.online/live/stream_e1.m3u8
 #EXTINF:-1 , Hoster Live 1 💥Live💥
 https://sportsleading.online/live/stream_e1_abr.m3u8
 
-#EXTINF:-1 , Hoster Live 2 Hindi 💥 Live 💥
-https://sportsleading.online/live/stream_e2.m3u8
-
 #EXTINF:-1 , Hoster Live 3 💥Live💥
 https://sportsleading.online/live/stream_e3.m3u8
 
-#EXTINF:-1, Star Sports 1 (Mobitel Data FREE)💥Live💥
+#EXTINF:-1, Star Sports 1 (Mobitel Data FREE)💥Live💥 ✅
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
-#EXTINF:-1 ,Star Sports 1 SD 💥Live💥
+#EXTINF:-1 ,Star Sports 1 SD 💥Live💥 ✅
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
-#EXTINF:-1 ,Astro Cricket HD** 💥Live💥
-http://37.49.225.145:8080/live/Miglior/rk8mEWJQMwyDZ9bYU35uPt/157565.m3u8
+#EXTINF:-1 ,Astro 
+https://astro.cric-streaming.repl.co/
 
-#EXTINF:-1 ,Astro Cricket HD** ✅💥Live💥✅ 
-http://37.49.225.145:8080/live/Miglior/rk8mEWJQMwyDZ9bYU35uPt/157565.m3u8
 
-#EXTINF:-1 ,Fox Cricket HD** ✅💥Live💥✅ 
-http://filex.tv:8080/live/Beesever/01620182/200797.m3u8
-
-#EXTINF:-1 ,Ten Cricket HD** ✅💥Live💥✅ 
-http://filex.tv:8080/live/Beesever/01620182/200796.m3u8
-
-#EXTINF:-1 ,Willow Cricket HD** ✅💥Live💥✅ 
-http://filex.tv:8080/live/Beesever/01620182/52109.m3u8
-
-#EXTINF:-1 ,Gazi TV ICC 
-http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star sports 1 HD
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 , Astro cricket 
-http://165.232.180.60/tharindu/match2.m3u8
-#EXTINF:-1 ,Star sports 1
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1, T Sports ICC World Cup 🪛
-https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1696751347~exp=1696794547~acl=/*~data=45.61.146.183-WEB~hmac=4646e32bf220b94b19b0f06b178a4fe93eeaf8ab31803cd496c196f941f3eb34
-#EXTINF:-1 ,
-
-#EXTINF:-1 , ✅ Samma TV ✅
-https://ythls.onrender.com/channel/UCJekW1Vj5fCVEGdye_mBN6Q.m3u8
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,✅ Super Sports Football ✅
-https://work.312work312.pro/live/n-5/chunks.m3u8
-#EXTINF:-1 , ✅ 𝐋𝐈𝐍𝐊 LA LIGA  ✅ 
-https://sportsleading.online/live/stream_7.m3u8 
 #EXTINF:-1 , ✅ Sky Sports Football ✅ 
 https://sportsleading.online/live/stream_1.m3u8
-
-#EXTINF:-1 , ✅ Laliga Live Match ✅ 
-https://gobezwoo.xyz/chunklist/hlsch4.m3u8
 #EXTINF:-1 , ✅Saudi Pro League Live Match✅
 https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 ,✅Saudi Pro League Live Match ✅SSQ1
@@ -119,21 +69,9 @@ https://stream.ayas.ir/hls2/bein3.m3u8
 #EXTINF:-1 ,BEIN Sports 4 ✅
 https://stream.ayas.ir/hls2/bein4.m3u8
 
-#EXTINF:-1 , Sky Sports F1
-https://gobezwoo.xyz/chunklist/hlsch10.m3u8
-
-#EXTINF:-1 ,live football
-https://live-ak.vimeocdn.com:443/exp=1696607056~acl=%2Fc0d79172-4a44-452a-bf90-66796e06d683%2F%2A~hmac=f997cf146d521e4326b0e42ad424a5cf848783b61a2f9dc56369aaaf1429c3de/c0d79172-4a44-452a-bf90-66796e06d683/chunklist_b3256000.m3u8
-
-#EXTINF:-1 ,PTV SPORTS HD BDIX Supported 
-http://103.141.2.38/hls/ptv.m3u8
-
-#EXTINF:-1 ,GTV HD BDIX Supported 
-http://103.141.2.38/hls/Gazi-TV.m3u8
 
 
-#EXTINF:-1 ,Sony Ten 5 HD BDIX Supported 
-http://103.141.2.38/hls/sonysix.m3u8
+
 
 #EXTINF:-1 , T Sports 1 HD Speed internet
 http://11plus.live/live/tsports/index.m3u8
