@@ -6,6 +6,9 @@ http://10.111.200.30/live/feed1001/index.m3u8
 #EXTINF:0, ✅ ICC TV Add free Channel ✅
 https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
 
+#EXTINF:0, ✅ espn_auto TV Add free Channel ✅
+https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
+
 #EXTINF:0, Rabbithole BD
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/cHnTSIA25w7-6vTJrbghZr9u5tIZoyMpAGwLj0HEjPd6842ft_VvPNIi8BHtdm-9-rRdGv_NS1V3sODJHTepWg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
