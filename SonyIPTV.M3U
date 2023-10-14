@@ -6,25 +6,13 @@ http://10.111.200.30/live/feed1001/index.m3u8
 #EXTINF:0, Rabbithole BD
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/cHnTSIA25w7-6vTJrbghZr9u5tIZoyMpAGwLj0HEjPd6842ft_VvPNIi8BHtdm-9-rRdGv_NS1V3sODJHTepWg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
-#EXTINF:0, 💥A Sports HD 💥 ✅
-https://ptvsports2.com/chd/master.m3u8/?id=asportshd
+#EXTINF:0, 🇮🇳 India Vs Pakistan 🇵🇰
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/obZMjtzaeXpvAV-igvupcjao-RKlHvFQDkh7W0xMScCw8KmhHgcfkHwLlxobg_4j9t59Y5IH2BWTV0nXsb9-uA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
-#EXTINF:0, 💥A Sports HD 💥 ✅
-https://ptvsports2.com/chd/master.m3u8/?id=fox501
+#EXTINF:0, ✅ Add free Channel ✅
+http://tv.bdiptv24.online/live/star1/jointelegram@freeiptv25.m3u8
 
-#EXTINF:0, 💥Fox 501 HD 💥 ✅
-https://sycosohan.fun/T_Sports_HD/Sohan-Vai.m3u8
-
-#EXTINF:0, 💥PTV Sports HD 💥 ✅
-https://ptvsports2.com/chd/master.m3u8/?id=ptvpk
-
-#EXTINF:0, 💥Star Sports 1 💥 ✅
-https://ptvsports2.com/chd/master.m3u8/?id=star1in
-
-#EXTINF:0, 💥Willow HD💥 ✅
-https://ptvsports2.com/chd/master.m3u8/?id=willowusa
-
-#EXTINF:0, 🔲 TLT  🇺🇸🔲 ✅
+#EXTINF:0, 🔲 TLT  🇺🇸 🔲 ✅
 http://cdn.live247stream.com/thelight/tv/playlist.m3u8
 
 #EXTINF:0, T Sports HD 💥 Offical Live 💥
