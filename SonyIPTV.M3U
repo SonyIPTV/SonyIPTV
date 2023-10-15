@@ -3,29 +3,23 @@
 #EXTINF:0, 🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
 http://10.111.200.30/live/feed1001/index.m3u8
 
+#EXTINF:0, ✅ Super sports Cricket ✅
+http://xtv.ooo:8080/493121299/992121394/238475
+
+#EXTINF:0, ✅ Willow Cricket HD ✅
+http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
+
+#EXTINF:0, ✅ Astro Cricket HD ✅
+http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
+
 #EXTINF:0, ✅ ICC TV Add free Channel ✅
 https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
 
 #EXTINF:0, ✅ espn_auto TV Add free Channel ✅
 https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
 
-#EXTINF:0, Rabbithole BD
-https://icc-cwc-2023.msr-sagar.repl.co/index.m3u8
-
-#EXTINF:0, 🇮🇳 India Vs Pakistan 🇵🇰
-https://gflix.fun/stream/rabbithole/index.m3u8
-
-#EXTINF:0, ✅ Add free Channel ✅
-http://tv.bdiptv24.online/live/star1/jointelegram@freeiptv25.
-
-#EXTINF:0,Toffee 
-https://gflix.fun/stream/toffee/index.m3u8
-
 #EXTINF:0, 🔲 TLT  🇺🇸 🔲 ✅
 http://cdn.live247stream.com/thelight/tv/playlist.m3u8
-
-#EXTINF:0, T Sports HD 💥 Offical Live 💥
-https://live.tsports.com/live/tsports_live_1080/index.m3u8
 
 #EXTINF:0, T Sports HD 💥Live💥
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
@@ -63,6 +57,14 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.
 #EXTINF:-1 ,Star Sports 1 SD 💥Live💥 ✅
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
+#EXTINF:-1 ,Event Sports 1 SD 💥Live💥 ✅
+https://sltlivetestgcp.yuppcdn.net/aes/smil:eventtvaes.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
+https://ao2c.short.gy/btvhd.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Subir",Eurosports(Subir)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 
 #EXTINF:-1 , ✅ Sky Sports Football ✅ 
 https://sportsleading.online/live/stream_1.m3u8
@@ -102,3 +104,16 @@ http://11plus.live/live/ptv/index.m3u8
 
 #EXTINF:-1 , Star Sports SL 1 HD Speed internet
 http://11plus.live/live/Star_Sport_Select1HD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Subir",Discovery HD(Subir)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery English HD(BD)
+https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery Hindi HD(BD)
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Subir",Animal Planet Multi Audio(Subir)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
