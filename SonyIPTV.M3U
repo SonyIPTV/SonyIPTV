@@ -117,3 +117,6 @@ https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Subir",Animal Planet Multi Audio(Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+
+#EXTINF:-1 , Sky Sports 1 HD
+http://103.180.112.66:8087/skynetsp1/tracks-a1/index.fmp4.m3u8?token=a8a71e0e657c20304bfb6c21c6f18af0be895441-03615c03856a8ad66ac853f569b2712f-1697463367-1697463067
