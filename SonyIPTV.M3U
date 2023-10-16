@@ -60,6 +60,18 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 ,Event Sports 1 SD 💥Live💥 ✅
 https://sltlivetestgcp.yuppcdn.net/aes/smil:eventtvaes.smil/playlist.m3u8
 
+#EXTINF:-1 , Astro Cricket 1 HD
+http://sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54242.m3u8
+
+#EXTINF:-1 , Star Sports 1 HD New
+http://103.114.38.150:1935/live/starsports1.stream/chunklist_w1747925824.m3u8
+
+#EXTINF:-1 , T Sports HD New
+http://103.114.38.150:1935/live/tsports.stream/chunklist_w100672609.m3u8
+
+#EXTINF:-1 , Gazi HD New
+http://103.114.38.150:1935/live/gazi.stream/chunklist_w761241192.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
 https://ao2c.short.gy/btvhd.mpd
 
@@ -83,7 +95,8 @@ https://stream.ayas.ir/hls2/bein3.m3u8
 #EXTINF:-1 ,BEIN Sports 4 ✅
 https://stream.ayas.ir/hls2/bein4.m3u8
 
-
+#EXTINF:-1 ,Jalsha Movies HD✅
+http://103.114.38.150:1935/live/jalsha-movies.stream/chunklist_w1736524372.m3u8
 
 
 
@@ -102,7 +115,7 @@ http://11plus.live/live/starsports2/index.m3u8
 #EXTINF:-1 , PTV HD Speed internet
 http://11plus.live/live/ptv/index.m3u8
 
-#EXTINF:-1 , Star Sports SL 1 HD Speed internet
+#EXTINF:-1, Star Sports SL 1 HD Speed internet
 http://11plus.live/live/Star_Sport_Select1HD/index.m3u8
 
 
@@ -118,5 +131,7 @@ https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Subir",Animal Planet Multi Audio(Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 
-#EXTINF:-1 , Sky Sports 1 HD
-http://103.180.112.66:8087/skynetsp1/tracks-a1/index.fmp4.m3u8?token=a8a71e0e657c20304bfb6c21c6f18af0be895441-03615c03856a8ad66ac853f569b2712f-1697463367-1697463067
+#EXTINF:-1 , FRANCE 24 HD (EN)
+http://185.19.190.1:8090/FRANCE24/index.m3u8
+
+
