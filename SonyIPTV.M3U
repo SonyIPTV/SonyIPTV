@@ -3,6 +3,12 @@
 #EXTINF:0, 🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
 http://10.111.200.30/live/feed1001/index.m3u8
 
+#EXTINF:0, ✅ Star Sports > 1 < HD ✅
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:0, ✅ Gazi TV > 1 < HD ✅
+http://chanel.dekhaott.com/Gazi-TV/tracks-v1/index.fmp4.m3u8
+
 #EXTINF:0, ✅ Super sports Cricket ✅
 http://xtv.ooo:8080/493121299/992121394/238475
 
