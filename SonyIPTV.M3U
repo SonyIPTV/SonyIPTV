@@ -38,6 +38,12 @@ http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:0, Gazi TV ✅💥Live💥 Akash DTH✅
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
+#EXTINF:0, Gazi TV ✅💥Live💥 MH Apurvo ✅
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
+
+#EXTINF:0, Willow Extra TV ✅💥Live💥MH Apurvo ✅
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
+
 #EXTINF:-1 ,✅ Gazi TV ICC ✅
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
@@ -79,7 +85,7 @@ https://ao2c.short.gy/btvhd.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" group-title="Sports", 02 | GOLTV (USA) ᴴᴰ
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" group-title="Sports", 02 | GOL TV (USA) ᴴᴰ ✅
 http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/167467
 
 #EXTINF:-1 , ✅ Sky Sports Football ✅ 
@@ -157,6 +163,9 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u
 
 #EXTINF:-1 , FRANCE 24 HD (EN)
 http://185.19.190.1:8090/FRANCE24/index.m3u8
+
+#EXTINF:-1 , Catton  HD (EN)
+http://202.60.106.14:21585/1344/playlist.m3u8
 
 #EXTINF:-1 ,Jalsha Movies HD✅
 http://103.114.38.150:1935/live/jalsha-movies.stream/chunklist_w1736524372.m3u8
