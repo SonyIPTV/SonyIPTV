@@ -95,8 +95,7 @@ http://103.114.38.150:1935/live/gazi.stream/chunklist_w761241192.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD Channels",BTV National (BD)
-https://ao2c.short.gy/btvhd.mpd
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports", 02 | Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
@@ -173,10 +172,10 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u
 #EXTINF:-1 tvg-logo="" group-title="News", FRANCE 24 HD (EN) 🛜
 http://185.19.190.1:8090/FRANCE24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png","group-title="News", Aljazeera HD 🛜
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png","group-title="News" Aljazeera HD 🛜
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png","group-title="News", BBC News FHD 🇬🇧 🛜
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png","group-title="News" BBC News FHD 🇬🇧 🛜
 http://23.237.104.26:8080/BBC_NEWS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News", Euro News_📺
@@ -188,11 +187,21 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 , Catton  HD (EN)
 http://202.60.106.14:21585/1344/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BD Channels",Jamuna TV 🇧🇩 🔥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD Channels", BTV National (BD)
+https://ao2c.short.gy/btvhd.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="BD Channels", Jamuna TV 🇧🇩 🔥
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BD Channels",CHANNEL 24 TV 🇧🇩 🔥
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="BD Channels", CHANNEL 24 TV 🇧🇩 🔥
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="BD Channels",RTV(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="BD Channels",Channel I(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+
 
 #EXTINF:-1 , Fashion TV HD✅
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
