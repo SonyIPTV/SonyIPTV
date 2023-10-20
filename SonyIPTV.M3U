@@ -3,8 +3,14 @@
 #EXTINF:0, #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
 http://10.111.200.30/live/feed1001/index.m3u8 
 
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Espn TV Add free Channel ✅ 🇮🇳
+https://copytiger.github.io/Join_Telegram~BDS5G.m3u8
+
 #EXTINF:0, #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", TLT** Sports > 1 < Full HD ✅ 🇵🇰
 http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", 💥 Star Sports 1 🇮🇳 (Full HD) ✅
+http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:0, #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Sky Sports > 1 < HD ✅ 🇳🇿
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Sky1/hls/index.m3u8
@@ -51,6 +57,11 @@ http://sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54242.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Star Sports 1 HD New ✅
 http://103.114.38.150:1935/live/starsports1.stream/chunklist_w1747925824.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Must USE VPN ", ✅ ESPN HD New ✅
+https://shz.al/~icc_cricket_world_cup_2023
+
+#EXTINF:-1 tvg-logo="" group-title="Must USE VPN ", ✅ Astro cricket official link 👇 ✅
+https://shz.al/~manikastro
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Football 🛜", 02  Eurosports
@@ -127,7 +138,7 @@ http://185.19.190.1:8090/FRANCE24/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="News",Aljazeera HD 🛜
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="News", BBC News FHD 🇬🇧 🛜
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="News", BBC News FHD 🇬🇧 🛜
 http://23.237.104.26:8080/BBC_NEWS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News", Euro News_📺
