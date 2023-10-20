@@ -3,10 +3,10 @@
 #EXTINF:0, 🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
 http://10.111.200.30/live/feed1001/index.m3u8
 
-#EXTINF:0, "group-title= "Cricket World Cup 2023", ✅ Sky Sports Cricket 🇬🇧 > HD < ✅
+#EXTINF:-1 tvg-logo=""group-title="Cricket World Cup 2023", ✅ Sky Sports Cricket 🇬🇧 > HD < ✅
 https://nayem.sananda.online/Super/tracks-v1/index.fmp4.m3u8
 
-#EXTINF:0, "group-title= "Cricket World Cup 2023", ✅ Star Sports > 1 <Full HD ✅ 🇮🇳 
+#EXTINF:-1 tvg-logo=""group-title="Cricket World Cup 2023", ✅ Star Sports > 1 <Full HD ✅ 🇮🇳 
 http://103.114.38.150:1935/live/starsports1.stream/chunklist.m3u8
 
 #EXTINF:0, TLT** Sports > 1 <Full HD ✅ 🇵🇰
@@ -59,10 +59,10 @@ https://b7bi.short.gy/FREOTV.m3u8
 #EXTINF:-1 , Hoster Live 1 🇮🇳 ✅💥Live💥✅
 https://sportsleading.online/live/stream_e1.m3u8
 
-#EXTINF:-1 , 1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png "group-title= "Cricket World Cup 2023" Hoster Live 1 🇮🇳💥Live💥
+#EXTINF:-1 , Cricket World Cup 2023" Hoster Live 1 🇮🇳💥Live💥
 https://sportsleading.online/live/stream_e1_abr.m3u8
 
-#EXTINF:-1 ,1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png Hoster Live 3 🇮🇳💥Live💥
+#EXTINF:-1 , Hoster Live 3 🇮🇳💥Live💥
 https://sportsleading.online/live/stream_e3.m3u8
 
 #EXTINF:-1, Star Sports 1 🇮🇳 (Mobitel Data FREE)💥Live💥 ✅
