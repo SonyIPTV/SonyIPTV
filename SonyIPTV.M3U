@@ -188,7 +188,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 , Catton  HD (EN)
 http://202.60.106.14:21585/1344/playlist.m3u8
 
-#EXTINF:-1 , "group-title="BD Channels", Jamuna TV Live 🔥🇧🇩
+#EXTINF:-1 tvg-logo="" group-title="BD Channels", Jamuna TV Live 🔥🇧🇩
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
 
