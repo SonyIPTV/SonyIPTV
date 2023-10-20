@@ -1,126 +1,78 @@
 #EXTM3U
 
-#EXTINF:0, 🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
+#EXTINF:0, #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
 http://10.111.200.30/live/feed1001/index.m3u8 
 
-#EXTINF:-1, ✅ Sky Sports Cricket 🇬🇧 > HD < ✅
-https://nayem.sananda.online/Super/tracks-v1/index.fmp4.m3u8
-
-#EXTINF:-1, ✅ Star Sports > 1 < Full HD ✅ 🇮🇳 
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Star1in/hls/index.m3u8
-
-#EXTINF:0, TLT** Sports > 1 < Full HD ✅ 🇵🇰
+#EXTINF:0, #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", TLT** Sports > 1 < Full HD ✅ 🇵🇰
 http://cdn.live247stream.com/thelight/tv/playlist.m3u8
 
-#EXTINF:0, ✅ Star Sports > 1 < HD ✅ 🇮🇳
+#EXTINF:0, #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Sky Sports > 1 < HD ✅ 🇳🇿
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Sky1/hls/index.m3u8
 
-#EXTINF:0, Star Sports Hindi 🇧🇩 > 1 < HD ✅
-https://ttest.mhapurbo1.repl.co/Okay/index.m3u8
-
-#EXTINF:0, ✅ Super sports Cricket ✅
-http://xtv.ooo:8080/493121299/992121394/238475
-
-#EXTINF:0, ✅ Willow Cricket USA HD ✅
-http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
-
-#EXTINF:0, ✅ Willow Xtra 🇲🇾 Cricket HD ✅
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
-
-#EXTINF:0, ✅ ICC TV Add free Channel ✅ 🇮🇳
-https://sportsleading.online/live/stream_e3.m3u8
-
-#EXTINF:0, ✅ Espn_auto TV Add free Channel ✅🇮🇳
-https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
-
-
-
-#EXTINF:0, T Sports HD 🇧🇩 ✅💥Live💥 Akash DTH ✅
-http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
-
-#EXTINF:0, T Sports HD 1 🇧🇩 ✅💥Live💥Akash DTH ✅
-http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:0, Gazi TV 🇧🇩 ✅💥Live💥 Akash DTH✅
-http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:0, Gazi TV 🇧🇩 ✅💥Live💥 MH Apurvo ✅
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
-
-#EXTINF:0, Willow Extra TV ✅💥Live💥MH Apurvo ✅
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
-
-#EXTINF:-1 ,✅ Gazi TV ICC 🇧🇩 ✅
-http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 , ✅ ICC World Cup live 💥Live💥✅ 🇮🇳
-https://b7bi.short.gy/FREOTV.m3u8
-
-#EXTINF:-1 , Hoster Live 1 🇮🇳 ✅💥Live💥✅
-https://sportsleading.online/live/stream_e1.m3u8
-
-#EXTINF:-1 , Cricket World Cup 2023" Hoster Live 1 🇮🇳💥Live💥
-https://sportsleading.online/live/stream_e1_abr.m3u8
-
-#EXTINF:-1 , Hoster Live 3 🇮🇳💥Live💥
-https://sportsleading.online/live/stream_e3.m3u8
-
-#EXTINF:-1, Star Sports 1 🇮🇳 (Mobitel Data FREE)💥Live💥 ✅
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", 💥 Star Sports 1 🇮🇳 (Mobitel Data FREE) ✅
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
-#EXTINF:-1 , ✅ Star Sports 1 SD 🇮🇳 💥Live💥 ✅
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Star Sports 1 SD 🇮🇳 💥Live💥 ✅
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", Star Sports Hindi 🇧🇩 > 1 < HD ✅
+https://ttest.mhapurbo1.repl.co/Okay/index.m3u8
 
-#EXTINF:-1 ,  Ten Sports HD 🇵🇰 Ssananda TV
-https://isp.sananda.online/Tensorts/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Willow Xtra 🇲🇾 Cricket HD ✅
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
 
-#EXTINF:-1 , Astro Cricket 1 HD 🇲🇾 Ssananda TV
-https://isp.sananda.online/Astro/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", 💥 Hoster Live 1 🇮🇳 💥 Live 💥
+https://sportsleading.online/live/stream_e1.m3u8
 
-#EXTINF:-1 , Star Sports 1 HD 🇮🇳 Ssananda TV
-https://isp.sananda.online/Star/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Espn_auto TV Add free Channel ✅ 🇮🇳
+https://sportsleading.online/live/stream_e3.m3u8
 
-#EXTINF:-1 , Astro Cricket 1 HD
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", 💥 Hoster Live back up 🇮🇳💥Live💥
+https://sportsleading.online/live/stream_e1_abr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", T Sports HD 🇧🇩 ✅ Akash DTH ✅
+http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", T Sports HD 1 🇧🇩 ✅ Akash DTH ✅
+http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", Gazi TV 🇧🇩 ✅ Akash DTH✅
+http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", Willow Extra TV ✅💥MH Apurvo ✅
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ ICC World Cup live ESPN ✅ 🇮🇳
+https://b7bi.short.gy/FREOTV.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Astro Cricket 1 HD ✅
 http://sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54242.m3u8
 
-#EXTINF:-1 , ✅ Star Sports 1 HD New ✅
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Star Sports 1 HD New ✅
 http://103.114.38.150:1935/live/starsports1.stream/chunklist_w1747925824.m3u8
 
-#EXTINF:-1 ,✅ T Sports HD New ✅
-http://103.114.38.150:1935/live/tsports.stream/chunklist_w100672609.m3u8
-
-#EXTINF:-1 , ✅ Gazi HD New ✅
-http://103.114.38.150:1935/live/gazi.stream/chunklist_w761241192.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports", 02 | Eurosports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Football 🛜", 02  Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" group-title="Sports", 02 | GOL TV (USA) ᴴᴰ ✅
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" group-title="Football 🛜", 02 GOL TV (USA) ᴴᴰ ✅
 http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/167467
 
-#EXTINF:-1 , ✅ Sky Sports Football ✅ 
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜 ", ✅ Sky Sports Football ✅ 
 https://sportsleading.online/live/stream_1.m3u8
-#EXTINF:-1 , ✅ Football Match ✅ 
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜 ", ✅ Football Match ✅ 
 https://sportsleading.online/live/stream_5.m3u8
-#EXTINF:-1 , ✅ Football 2✅ 
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜 ", ✅ Football 2✅ 
 https://sportsleading.online/live/stream_4.m3u8
-
-#EXTINF:-1 , ✅Saudi Pro League Live Match✅
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜 ", ✅Saudi Pro League Live Match✅
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
-
-
-
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Football FIFA Sports",✅ Match Sports 1 ru ✅
+#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Football 🛜",✅ Match Sports 1 ru ✅
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Football FIFA Sports",✅ Match Sports 2 ru ✅
+#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Football 🛜",✅ Match Sports 2 ru ✅
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Football FIFA Sports",✅ Match Sports 3 ru ✅
+#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Football 🛜",✅ Match Sports 3 ru ✅
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
 
@@ -128,22 +80,22 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
 
 
-#EXTINF:-1 , T Sports 1 HD Speed internet 📺 🛜
+#EXTINF:-1 tvg-logo="" group-title="Speed internet 🛜 ", T Sports 1 HD Speed internet 📺 🛜
 http://11plus.live/live/tsports/index.m3u8
 
-#EXTINF:-1 , Gazi Sports HD Speed internet 📺 🛜
+#EXTINF:-1 tvg-logo="" group-title="Speed internet 🛜 ", Gazi Sports HD Speed internet 📺 🛜
 http://11plus.live/live/Gazi-TV/index.m3u8
 
-#EXTINF:-1 , Star Sports 1 HD Speed internet 📺 🛜
+#EXTINF:-1 tvg-logo="" group-title="Speed internet 🛜 ", Star Sports 1 HD Speed internet 📺 🛜
 http://11plus.live/live/stersports1hd/index.m3u8
 
-#EXTINF:-1 , Star Sports 2 HD Speed internet 📺 🛜
+#EXTINF:-1 tvg-logo="" group-title="Speed internet 🛜 ", Star Sports 2 HD Speed internet 📺 🛜
 http://11plus.live/live/starsports2/index.m3u8
  
-#EXTINF:-1 , PTV HD Speed internet 📺 🛜
+#EXTINF:-1 tvg-logo="" group-title="Speed internet 🛜 ", PTV HD Speed internet 📺 🛜
 http://11plus.live/live/ptv/index.m3u8
 
-#EXTINF:-1, Star Sports SL 1 HD Speed internet 📺
+#EXTINF:-1 tvg-logo="" group-title="Speed internet 🛜 ", Star Sports SL 1 HD Speed internet 📺
 http://11plus.live/live/Star_Sport_Select1HD/index.m3u8
 
 
@@ -184,8 +136,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewsuk-xiao
 #EXTINF:-1 tvg-logo="" group-title="News", DW English (1080p_📺
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 , Catton  HD (EN)
-http://202.60.106.14:21585/1344/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD Channels", BTV National (BD)
 https://ao2c.short.gy/btvhd.mpd
@@ -203,5 +154,5 @@ http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 
-#EXTINF:-1 , Fashion TV HD✅
+#EXTINF:-1 tvg-logo="" group-title=" Life Style 🛜 ", Fashion TV HD✅
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
