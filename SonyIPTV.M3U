@@ -170,7 +170,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u
 
 
 
-#EXTINF:-1 , FRANCE 24 HD (EN) 🛜
+#EXTINF:-1 tvg-logo="" group-title="News", FRANCE 24 HD (EN) 🛜
 http://185.19.190.1:8090/FRANCE24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png","group-title="News", Aljazeera HD 🛜
@@ -179,7 +179,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png","group-title="News", BBC News FHD 🇬🇧 🛜
 http://23.237.104.26:8080/BBC_NEWS/playlist.m3u8
 
-#EXTINF:0,"group-title="News", Euro News_📺
+#EXTINF:-1 tvg-logo="" group-title="News", Euro News_📺
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewsuk-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News", DW English (1080p_📺
@@ -190,6 +190,9 @@ http://202.60.106.14:21585/1344/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BD Channels",Jamuna TV 🇧🇩 🔥
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BD Channels",CHANNEL 24 TV 🇧🇩 🔥
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1 , Fashion TV HD✅
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
