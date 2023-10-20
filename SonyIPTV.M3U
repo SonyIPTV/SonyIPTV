@@ -3,13 +3,19 @@
 #EXTINF:0, 🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
 http://10.111.200.30/live/feed1001/index.m3u8
 
-#EXTINF:0, ✅ Sky Sports Cricket > HD < ✅
+#EXTINF:0, ✅ Sky Sports Cricket 🇬🇧 > HD < ✅
 https://nayem.sananda.online/Super/tracks-v1/index.fmp4.m3u8
 
-#EXTINF:0, ✅ Star Sports > 1 < HD ✅
+#EXTINF:0, ✅ Star Sports > 1 <Full HD ✅ 🇮🇳 
+http://103.114.38.150:1935/live/starsports1.stream/chunklist.m3u8
+
+#EXTINF:0, TLT** Sports > 1 <Full HD ✅ 🇵🇰
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+
+#EXTINF:0, ✅ Star Sports > 1 < HD ✅ 🇮🇳
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
-#EXTINF:0, ✅ Gazi TV > 1 < HD ✅
+#EXTINF:0, ✅ Gazi TV 🇧🇩 > 1 < HD ✅
 http://chanel.dekhaott.com/Gazi-TV/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:0, ✅ Super sports Cricket ✅
@@ -18,54 +24,62 @@ http://xtv.ooo:8080/493121299/992121394/238475
 #EXTINF:0, ✅ Willow Cricket HD ✅
 http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
 
-#EXTINF:0, ✅ Astro Cricket HD ✅
+#EXTINF:0, ✅ Astro 🇲🇾 Cricket HD ✅
 http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
 
-#EXTINF:0, ✅ ICC TV Add free Channel ✅
+#EXTINF:0, ✅ ICC TV Add free Channel ✅ 🇮🇳
 https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
 
-#EXTINF:0, ✅ espn_auto TV Add free Channel ✅
+#EXTINF:0, ✅ Espn_auto TV Add free Channel ✅🇮🇳
 https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
 
 
 
-#EXTINF:0, T Sports HD ✅💥Live💥 Akash DTH ✅
+#EXTINF:0, T Sports HD 🇧🇩 ✅💥Live💥 Akash DTH ✅
 http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
 
-#EXTINF:0, T Sports HD 1 ✅💥Live💥Akash DTH ✅
+#EXTINF:0, T Sports HD 1 🇧🇩 ✅💥Live💥Akash DTH ✅
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:0, Gazi TV ✅💥Live💥 Akash DTH✅
+#EXTINF:0, Gazi TV 🇧🇩 ✅💥Live💥 Akash DTH✅
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0, Gazi TV ✅💥Live💥 MH Apurvo ✅
+#EXTINF:0, Gazi TV 🇧🇩 ✅💥Live💥 MH Apurvo ✅
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
 
 #EXTINF:0, Willow Extra TV ✅💥Live💥MH Apurvo ✅
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
 
-#EXTINF:-1 ,✅ Gazi TV ICC ✅
+#EXTINF:-1 ,✅ Gazi TV ICC 🇧🇩 ✅
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 , ✅ ICC World Cup live 💥Live💥✅
+#EXTINF:-1 , ✅ ICC World Cup live 💥Live💥✅ 🇮🇳
 https://b7bi.short.gy/FREOTV.m3u8
 
-#EXTINF:-1 , Hoster Live 1 ✅💥Live💥✅
+#EXTINF:-1 , Hoster Live 1 🇮🇳 ✅💥Live💥✅
 https://sportsleading.online/live/stream_e1.m3u8
 
-#EXTINF:-1 , Hoster Live 1 💥Live💥
+#EXTINF:-1 , 1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.pngHoster Live 1 🇮🇳💥Live💥
 https://sportsleading.online/live/stream_e1_abr.m3u8
 
-#EXTINF:-1 , Hoster Live 3 💥Live💥
+#EXTINF:-1 ,1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png Hoster Live 3 🇮🇳💥Live💥
 https://sportsleading.online/live/stream_e3.m3u8
 
-#EXTINF:-1, Star Sports 1 (Mobitel Data FREE)💥Live💥 ✅
+#EXTINF:-1, Star Sports 1 🇮🇳 (Mobitel Data FREE)💥Live💥 ✅
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
-#EXTINF:-1 , ✅ Star Sports 1 SD 💥Live💥 ✅
+#EXTINF:-1 , ✅ Star Sports 1 SD 🇮🇳 💥Live💥 ✅
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
 
+#EXTINF:-1 ,  Ten Sports HD 🇵🇰 Ssananda TV
+https://isp.sananda.online/Tensorts/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 , Astro Cricket 1 HD 🇲🇾 Ssananda TV
+https://isp.sananda.online/Astro/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 , Star Sports 1 HD 🇮🇳 Ssananda TV
+https://isp.sananda.online/Star/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 , Astro Cricket 1 HD
 http://sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54242.m3u8
@@ -78,6 +92,8 @@ http://103.114.38.150:1935/live/tsports.stream/chunklist_w100672609.m3u8
 
 #EXTINF:-1 , ✅ Gazi HD New ✅
 http://103.114.38.150:1935/live/gazi.stream/chunklist_w761241192.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD Channels",BTV National (BD)
 https://ao2c.short.gy/btvhd.mpd
@@ -97,18 +113,9 @@ https://sportsleading.online/live/stream_4.m3u8
 
 #EXTINF:-1 , ✅Saudi Pro League Live Match✅
 https://af.ayassport.ir/hls2/ssc1.m3u8
-#EXTINF:-1 ,✅Saudi Pro League Live Match ✅SSQ1
-http://89.105.216.22:8080/live/bebosn/bebosn/52.m3u8
 
 
-#EXTINF:-1 ,BEIN Sports 1 ✅
-https://stream.ayas.ir/hls2/bein1.m3u8 
-#EXTINF:-1 ,BEIN Sports 2 ✅
-https://stream.ayas.ir/hls2/bein2.m3u8 
-#EXTINF:-1 ,BEIN Sports 3 ✅
-https://stream.ayas.ir/hls2/bein3.m3u8 
-#EXTINF:-1 ,BEIN Sports 4 ✅
-https://stream.ayas.ir/hls2/bein4.m3u8
+
 
 #EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Football FIFA Sports",✅ Match Sports 1 ru ✅
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
@@ -122,22 +129,22 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
 
 
-#EXTINF:-1 , T Sports 1 HD Speed internet
+#EXTINF:-1 , T Sports 1 HD Speed internet 📺 🛜
 http://11plus.live/live/tsports/index.m3u8
 
-#EXTINF:-1 , Gazi Sports HD Speed internet
+#EXTINF:-1 , Gazi Sports HD Speed internet 📺 🛜
 http://11plus.live/live/Gazi-TV/index.m3u8
 
-#EXTINF:-1 , Star Sports 1 HD Speed internet
+#EXTINF:-1 , Star Sports 1 HD Speed internet 📺 🛜
 http://11plus.live/live/stersports1hd/index.m3u8
 
-#EXTINF:-1 , Star Sports 2 HD Speed internet
+#EXTINF:-1 , Star Sports 2 HD Speed internet 📺 🛜
 http://11plus.live/live/starsports2/index.m3u8
  
-#EXTINF:-1 , PTV HD Speed internet
+#EXTINF:-1 , PTV HD Speed internet 📺 🛜
 http://11plus.live/live/ptv/index.m3u8
 
-#EXTINF:-1, Star Sports SL 1 HD Speed internet
+#EXTINF:-1, Star Sports SL 1 HD Speed internet 📺
 http://11plus.live/live/Star_Sport_Select1HD/index.m3u8
 
 
@@ -161,8 +168,22 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Infotainment Channels",Travel Channel(BD)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
 
-#EXTINF:-1 , FRANCE 24 HD (EN)
+
+
+#EXTINF:-1 , FRANCE 24 HD (EN) 🛜
 http://185.19.190.1:8090/FRANCE24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png",Aljazeera HD 🛜
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png" BBC News FHD 🇬🇧 🛜
+http://23.237.104.26:8080/BBC_NEWS/playlist.m3u8
+
+#EXTINF:0, Euro News_📺
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewsuk-xiaomi/playlist.m3u8
+
+#EXTINF:0,DW English (1080p_📺
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 , Catton  HD (EN)
 http://202.60.106.14:21585/1344/playlist.m3u8
