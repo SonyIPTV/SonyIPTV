@@ -54,6 +54,12 @@ https://b7bi.short.gy/FREOTV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Astro Cricket 1 HD ✅
 http://sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54242.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Astro Cricket 1 HD ✅ Backup 1
+https://epg.pw/stream/3518ec06e22ffdedd358d57645aa473a36b8d1620ea4f8d1bd899bd3be9c913e.ctv
+
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Astro Cricket 1 HD ✅ Backup 2
+https://epg.pw/stream/d52dca05051b999b8704274cefd9190ca5b118280ef1914279604efee5e90093.ctv
+
 #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Star Sports 1 HD New ✅
 http://103.114.38.150:1935/live/starsports1.stream/chunklist_w1747925824.m3u8
 
@@ -86,6 +92,21 @@ https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7 🇹🇭
 https://edge1.laotv.la/live/THD7/index.m3u8
 
+#EXTINF:-1 tvg-id="811.astro" tvg-logo="https://raw.githubusercontent.com/marginfull/ott/main/assp.png?4015" group-title="Football 🛜",Astro Supersport
+https://ktpremium.com:443/F4455JG/3554/26312
+
+#EXTINF:-1 tvg-id="812.astro" tvg-logo="https://raw.githubusercontent.com/marginfull/ott/main/assp.png?4015" group-title="Football 🛜",Astro Supersport 2
+https://ktpremium.com:443/F4455JG/3554/26313
+
+#EXTINF:-1 tvg-id="813.astro" tvg-logo="https://raw.githubusercontent.com/marginfull/ott/main/assp.png?4015" group-title="Football 🛜",Astro Supersport 3
+https://ktpremium.com:443/F4455JG/3554/26314
+
+#EXTINF:-1 tvg-id="814.astro" tvg-logo="https://raw.githubusercontent.com/marginfull/ott/main/assp.png?4015" group-title="Football 🛜",Astro Supersport 4
+https://ktpremium.com:443/F4455JG/3554/26315
+
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜 ", ✅Astro SuperSport 2 (backup)✅
+https://epg.pw/stream/b16a4df2bcf4f0a677b78e0c1c67ea120a37496fe3d55e4b055b061d6c2f00dc.ctv
+
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜 ", ✅ Sky Sports Football ✅ 
 https://sportsleading.online/live/stream_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜 ", ✅ Football Match ✅ 
@@ -95,11 +116,31 @@ https://sportsleading.online/live/stream_4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜 ", ✅Saudi Pro League Live Match✅
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo=" "group-title="Football 🛜",✅ Match Sports 1 ru ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSCz4wXP/ssc1.png" group-title="Football 🛜",SSC 1
+https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8763ccad3d146c2b15f8a77a4d6d733:ab87f6ae46b2dc187bd94cbb48cfe074
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Px8ZZf1S/ssc2.png" group-title="Football 🛜",SSC 2
+https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3af2aa1da4a41cbb37b1dbe43b46782:b6b74f29f6d1501b989c96aec4dae599
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sghRttPt/ssc3.png" group-title="Football 🛜",SSC 3
+https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf5a32868224a6f9f3a749a9ea20eb2:0ace749c97932aa44434da3a88c1ee69
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tTs9rYTH/ssc-E1.png" group-title="Football 🛜",SSC EXTRA 1
+https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
+
+#EXTINF:-1, "group-title="Football 🛜" tvg-logo=" https://cdn2.red-media.ru/800x466-2016-01-Match-Futbol-1.jpg", ✅ Match Sports 1 ru ✅
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo=" "group-title="Football 🛜",✅ Match Sports 2 ru ✅
+#EXTINF:-1 ,"group-title="Football 🛜" tvg-logo=" https://cdn2.red-media.ru/800x466-2016-01-Match-Futbol-1.jpg", ✅ Match Sports 2 ru ✅
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo=" "group-title="Football 🛜",✅ Match Sports 3 ru ✅
+#EXTINF:-1 ,"group-title="Football 🛜" tvg-logo=" https://cdn2.red-media.ru/800x466-2016-01-Match-Futbol-1.jpg", ✅ Match Sports 3 ru ✅
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
 
