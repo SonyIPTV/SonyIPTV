@@ -197,19 +197,19 @@ https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 
 ########################## BD Channels ##########################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD Channels", BTV National (BD)
+#EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png", BTV National (BD) ✅
 https://ao2c.short.gy/btvhd.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="BD Channels", Jamuna TV 🇧🇩 🔥
+#EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg",✅ Jamuna TV 🇧🇩 🔥 
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="BD Channels", CHANNEL 24 TV 🇧🇩 🔥
+#EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png",✅ CHANNEL 24 TV 🇧🇩 🔥
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="BD Channels",RTV(Jagobd)
+#EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",✅ RTV (Jagobd) 🇧🇩 🔥
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="BD Channels",Channel I(Jagobd)
+#EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",✅ Channel I(Jagobd) 🇧🇩 🔥
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title=" BD Channels", MEKAH TV HD
@@ -221,8 +221,8 @@ http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 
 ########################## Life Style 🛜 ##########################
 
-#EXTINF:-1 tvg-logo=" " group-title=" Life Style 🛜 ", Fashion TV HD✅
+#EXTINF:-1 group-title="Life Style 🛜" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV HD 1 ✅
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Life Style 🛜" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
+#EXTINF:-1 group-title="Life Style 🛜" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", ✅ Fashion TV HD 2✅
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
