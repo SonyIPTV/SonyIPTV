@@ -12,14 +12,14 @@ http://103.175.242.10:8080/ASTRO_Cricket/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Espn TV Add free Channel ✅ 🇮🇳
 https://copytiger.github.io/Join_Telegram~BDS5G.m3u8
 
-#EXTINF:0, #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", TLT** Sports > 1 < Full HD ✅ 🇵🇰
-http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXTINF:0, #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", Star Sports > 1 < Full HD ✅ 🇵🇰
+http://test-otv2.ftpbd.net/streams/110/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", 💥 Star Sports 1 🇮🇳 (Full HD) ✅
-http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", 💥 TLT + Willow Sports 🇮🇳 (Full HD) ✅
+http://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
 
-#EXTINF:0, #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Sky Sports > 1 < HD ✅ 🇳🇿
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Sky1/hls/index.m3u8
+#EXTINF:0, #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Star Sports > 1 < Movile SD ✅ 🇳🇿
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w1752884780_b264000.m3u8NFk2RzZJWmlvbnZqLW1CUT0=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", 💥 Star Sports 1 🇮🇳 (Mobitel Data FREE) ✅
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
