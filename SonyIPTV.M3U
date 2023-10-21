@@ -197,10 +197,10 @@ https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 
 ########################## BD Channels ##########################
 
-#EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png", BTV National (BD) ✅
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"" group-title="BD Channels 🛜", BTV National (BD) ✅
 https://ao2c.short.gy/btvhd.mpd
 
-#EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg",✅ Jamuna TV 🇧🇩 🔥 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"" group-title="BD Channels 🛜", ✅ Jamuna TV 🇧🇩 🔥 
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png",✅ CHANNEL 24 TV 🇧🇩 🔥
