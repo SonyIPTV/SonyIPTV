@@ -65,10 +65,27 @@ https://shz.al/~manikastro
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Football 🛜", 02  Eurosports
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8 
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" group-title="Football 🛜", 02 GOL TV (USA) ᴴᴰ ✅
-http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/167467
+
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg", Bein Sports 1 🇹🇭
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/394df566-c126-426a-854a-c41b75025213.jpeg", Bein Sports 2 🇹🇭
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1 🇹🇭
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2 🇹🇭
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3 🇹🇭
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8 
+
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png", True Sports 1 🇹🇭
+https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png", True Sports 3 🇹🇭
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7 🇹🇭
+https://edge1.laotv.la/live/THD7/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜 ", ✅ Sky Sports Football ✅ 
 https://sportsleading.online/live/stream_1.m3u8
