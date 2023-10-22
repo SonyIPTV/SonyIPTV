@@ -209,7 +209,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u
 #EXTINF:-1 tvg-logo="" group-title="News", FRANCE 24 HD (EN) 🛜
 http://185.19.190.1:8090/FRANCE24/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"" group-title="News", Aljazeera HD 🛜
+#EXTINF:-1 tvg-id="" tvg-logo="http://test-otv1.ftpbd.net/channel-logo/al%20jazeera.jpg"" group-title="News", Aljazeera HD 🛜
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"" group-title="News", BBC News FHD 🇬🇧 🛜
@@ -229,16 +229,16 @@ https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"" group-title="BD Channels 🛜", BTV National (BD) ✅
 https://ao2c.short.gy/btvhd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"" group-title="BD Channels 🛜", ✅ Jamuna TV 🇧🇩 🔥 
+#EXTINF:-1 tvg-id="" tvg-logo="http://test-otv1.ftpbd.net/channel-logo/jamuna%20tv.png"" group-title="BD Channels 🛜", ✅ Jamuna TV 🇧🇩 🔥 
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png",✅ CHANNEL 24 TV 🇧🇩 🔥
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",✅ RTV (Jagobd) 🇧🇩 🔥
+#EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="http://test-otv1.ftpbd.net/channel-logo/Rtv.png",✅ RTV (Jagobd) 🇧🇩 🔥
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",✅ Channel I(Jagobd) 🇧🇩 🔥
+#EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png",✅ Channel I(Jagobd) 🇧🇩 🔥
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Islamic", MEKAH TV HD
