@@ -12,22 +12,22 @@ http://103.175.242.10:8080/ASTRO_Cricket/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Espn TV Add free Channel ✅ 🇮🇳
 https://copytiger.github.io/Join_Telegram~BDS5G.m3u8
 
-#EXTINF:0, #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", Star Sports > 1 < Full HD ✅ 🇵🇰
+#EXTINF:0, #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", Star Sports > 1 < Full HD ✅ 🇵🇰
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", 💥 TLT + Willow Sports 🇮🇳 (Full HD) ✅
 http://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
 
-#EXTINF:0, #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Star Sports > 1 < Movile SD ✅ 🇳🇿
+#EXTINF:0, #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", ✅ Star Sports > 1 < Movile SD ✅ 🇳🇿
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w1752884780_b264000.m3u8NFk2RzZJWmlvbnZqLW1CUT0=.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", 💥 Star Sports 1 🇮🇳 (Mobitel Data FREE) ✅
+#EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", 💥 Star Sports 1 🇮🇳 (Mobitel Data FREE) ✅
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Star Sports 1 SD 🇮🇳 💥Live💥 ✅
+#EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", ✅ Star Sports 1 SD 🇮🇳 💥Live💥 ✅
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", Star Sports Hindi 🇧🇩 > 1 < HD ✅
+#EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", Star Sports Hindi 🇧🇩 > 1 < HD ✅
 https://ttest.mhapurbo1.repl.co/Okay/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Willow Xtra 🇲🇾 Cricket HD ✅
@@ -48,10 +48,10 @@ http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/tp.jpg" group-title="ICC World Cup 🛜 ", T Sports HD 1 🇧🇩 ✅ Akash DTH ✅
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", Gazi TV 🇧🇩 ✅ Akash DTH✅
+#EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/gtv.jpg" group-title="ICC World Cup 🛜 ", Gazi TV 🇧🇩 ✅ Akash DTH✅
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", Willow Extra TV ✅💥MH Apurvo ✅
+#EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/gtv.jpg" group-title="ICC World Cup 🛜 ", Willow Extra TV ✅💥MH Apurvo ✅
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ ICC World Cup live ESPN ✅ 🇮🇳
@@ -63,10 +63,10 @@ http://sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54242.m3u8
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="ICC World Cup 🛜 ", ✅ Astro Cricket 1 HD ✅ Backup 1
 https://epg.pw/stream/3518ec06e22ffdedd358d57645aa473a36b8d1620ea4f8d1bd899bd3be9c913e.ctv
 
-#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Astro Cricket 1 HD ✅ Backup 2
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="ICC World Cup 🛜 ", ✅ Astro Cricket 1 HD ✅ Backup 2
 https://epg.pw/stream/d52dca05051b999b8704274cefd9190ca5b118280ef1914279604efee5e90093.ctv
 
-#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Star Sports 1 HD New ✅
+#EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", ✅ Star Sports 1 HD New ✅
 http://103.114.38.150:1935/live/starsports1.stream/chunklist_w1747925824.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Must USE VPN ", ✅ ESPN HD New ✅
