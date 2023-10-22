@@ -119,10 +119,19 @@ https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1 🇹🇭
 https://ctrl.laotv.la/live/TSport1/index.m3u8
+
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2 🇹🇭
 https://ctrl.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/HP4Xnwk/Desain-tanpa-judul-58-modified.png" group-title="Football 🛜",Premier Football 2 Backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3 🇹🇭
 https://ctrl.laotv.la/live/TrueSport2/index.m3u8 
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/Xt38mRL/Desain-tanpa-judul-59-modified.png" group-title="Football 🛜",Premier Football 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png", True Sports 1 🇹🇭
 https://ctrl.laotv.la/live/TrueSport6/index.m3u8
