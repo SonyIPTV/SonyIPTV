@@ -91,7 +91,11 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 
 
 ########################## Football 🛜 ##########################
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", CBC Sports HD 
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png", TNT Sports HD 1
+https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", CBC Sports HD 14
+https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", CBC Sports HD 2 Italy
 https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Bein Sports 1 HD Arabic
