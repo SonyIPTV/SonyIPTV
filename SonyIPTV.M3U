@@ -14,10 +14,7 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png", Astro Cricket (Fast)(no ad breaks)▶️
 http://103.175.242.10:8080/ASTRO_Cricket/index.m3u8
 
-#EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png", Astro Cricket 
-http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
-
-#EXTINF:-1 tvg-logo="https://techyhost.com/wp-content/uploads/2020/02/Hotstar.png" group-title="ICC World Cup 🛜 ", ✅ Espn TV Add free Channel ✅ 🇮🇳
+#EXTINF:-1 tvg-logo="https://techyhost.com/wp-content/uploads/2020/02/Hotstar.png" group-title="ICC World Cup 🛜 ", ✅ Espn TV Add free Hindi ✅ 🇮🇳
 https://sportsleading.online/live/stream_e2.m3u8
 
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", Star Sports > 1 < Full HD ✅ 🇵🇰
@@ -35,14 +32,14 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.
 #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", ✅ Star Sports 1 SD 🇮🇳 💥Live💥 ✅
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", Star Sports Hindi 🇧🇩 > 1 < HD ✅
-https://ttest.mhapurbo1.repl.co/Okay/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", Star Sports Tamil 🇧🇩 > 1 < HD 
+https://serverbackupchannel.xyz/StarsportsTamil.m3u8
 
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" group-title="ICC World Cup 🛜 ", ✅ Willow Xtra 🇲🇾 Cricket HD ✅
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://techyhost.com/wp-content/uploads/2020/02/Hotstar.png" group-title="ICC World Cup 🛜 ", 💥 Hoster Live 1 🇮🇳 💥 Live 💥
-https://sportsleading.online/live/stream_e1.m3u8
+https://sportsleading.online/live/stream_e3.m3u8
 
 #EXTINF:-1 tvg-logo="https://techyhost.com/wp-content/uploads/2020/02/Hotstar.png" group-title="ICC World Cup 🛜 ", ✅ Espn_auto TV Add free Channel ✅ 🇮🇳
 https://sportsleading.online/live/stream_e3.m3u8
@@ -94,6 +91,8 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", CBC Sports HD 
+https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Bein Sports 1 HD Arabic
 https://stream.ayas.ir/hls2/bein1.m3u8
