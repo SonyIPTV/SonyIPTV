@@ -3,7 +3,7 @@
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="ICC World Cup 🛜 ",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
 http://10.111.200.30/live/feed1001/index.m3u8 
 
-#EXTINF:0, #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208143/logo/240x240/mobile_logo_532199001696331335.png" group-title="ICC World Cup 🛜 ",🔲 Toffee 1 ICC WORLD CUP 🔲 
+#EXTINF:0, #EXTINF:-1 tvg-logo="https://toffeelive.com/assets/images/toffee-icon.png" group-title="ICC World Cup 🛜 ",🔲 Toffee 1 ICC WORLD CUP 🔲 
 https://mprod-cdn.toffeelive.com/iccwc2023/match-2/master_850.m3u8
 
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/ptv.jpg", Ptv sports HD ▶️
