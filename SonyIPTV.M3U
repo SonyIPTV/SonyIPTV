@@ -42,10 +42,10 @@ https://sportsleading.online/live/stream_e3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", 💥 Hoster Live back up 🇮🇳💥Live💥
 https://sportsleading.online/live/stream_e1_abr.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", T Sports HD 🇧🇩 ✅ Akash DTH ✅
+#EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/tp.jpg" group-title="ICC World Cup 🛜 ", T Sports HD 🇧🇩 ✅ Akash DTH ✅
 http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", T Sports HD 1 🇧🇩 ✅ Akash DTH ✅
+#EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/tp.jpg" group-title="ICC World Cup 🛜 ", T Sports HD 1 🇧🇩 ✅ Akash DTH ✅
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", Gazi TV 🇧🇩 ✅ Akash DTH✅
@@ -57,10 +57,10 @@ https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ ICC World Cup live ESPN ✅ 🇮🇳
 https://b7bi.short.gy/FREOTV.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Astro Cricket 1 HD ✅
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="ICC World Cup 🛜 ", ✅ Astro Cricket 1 HD ✅
 http://sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54242.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Astro Cricket 1 HD ✅ Backup 1
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="ICC World Cup 🛜 ", ✅ Astro Cricket 1 HD ✅ Backup 1
 https://epg.pw/stream/3518ec06e22ffdedd358d57645aa473a36b8d1620ea4f8d1bd899bd3be9c913e.ctv
 
 #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", ✅ Astro Cricket 1 HD ✅ Backup 2
@@ -72,20 +72,25 @@ http://103.114.38.150:1935/live/starsports1.stream/chunklist_w1747925824.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Must USE VPN ", ✅ ESPN HD New ✅
 https://shz.al/~icc_cricket_world_cup_2023
 
-#EXTINF:-1 tvg-logo="" group-title="Must USE VPN ", ✅ Astro cricket official link 👇 ✅
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Must USE VPN ", ✅ Astro cricket official link 👇 ✅
 https://shz.al/~manikastro
 
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://icon2.cleanpng.com/20180613/oo/kisspng-2018-indian-premier-league-delhi-daredevils-televi-5b20fe573b9981.2234937815288889192441.jpg", Star Sports Select HD 1
 http://test-otv2.ftpbd.net/streams/116/index.m3u8
 
+#EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png", Sony Ten 5 HD
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 
+
+########################## Football 🛜 ##########################
+
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png", Ten Sports 2 HD
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://assets.mspimages.in/gear/wp-content/uploads/2022/11/Sports-18-1536x858.jpg", Sports 18 HD
 http://test-otv2.ftpbd.net/streams/107/index.m3u8
-
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png", Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8 
-
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg", Bein Sports 1 🇹🇭
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/394df566-c126-426a-854a-c41b75025213.jpeg", Bein Sports 2 🇹🇭
@@ -107,7 +112,6 @@ https://edge1.laotv.la/live/THD7/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅Astro SuperSport 2 (backup)✅
 https://epg.pw/stream/b16a4df2bcf4f0a677b78e0c1c67ea120a37496fe3d55e4b055b061d6c2f00dc.ctv
-
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Sky Sports Football ✅ 
 https://sportsleading.online/live/stream_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football Match ✅ 
