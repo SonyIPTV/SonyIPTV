@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0, #EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
+#EXTINF:0, #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="ICC World Cup 🛜 ",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
 http://10.111.200.30/live/feed1001/index.m3u8 
 
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/ptv.jpg", Ptv sports HD ▶️
@@ -18,7 +18,7 @@ https://copytiger.github.io/Join_Telegram~BDS5G.m3u8
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", Star Sports > 1 < Full HD ✅ 🇵🇰
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ", 💥 TLT + Willow Sports 🇮🇳 (Full HD) ✅
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png" group-title="ICC World Cup 🛜 ", 💥 TLT + Willow Sports 🇮🇳 (Full HD) ✅
 http://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
 
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", ✅ Star Sports > 1 < Movile SD ✅ 🇳🇿
