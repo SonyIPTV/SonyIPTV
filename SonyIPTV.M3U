@@ -295,6 +295,13 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 
 ########################## BD Channels ##########################
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png " group-title="BD Channels 🛜", Ekattor 🇧🇩 TV (720p)
+https://ythlsgo.onrender.com/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png" group-title="BD Channels 🛜",Ekhon 🇧🇩 TV HD
+https://ythlsgo.onrender.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="BD Channels 🛜",SATV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 
