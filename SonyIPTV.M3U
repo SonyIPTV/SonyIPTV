@@ -257,10 +257,10 @@ https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Animal%20Planet1664974986.png", Animal Planet Multi Audio
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.imgur.com/KLBorkM.png", Travel XP English(BD)
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel XP English(BD)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.imgur.com/KLBorkM.png", Travel Channel(BD)
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel Channel(BD)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/National%20Geography1664975151.png" ch-number="563", Nat Geo UK
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeouk.m3u8
