@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:0, #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="ICC World Cup 🛜 ",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
+#EXTINF:0, #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="ICC World Cup 🛜 ",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8 
 
-#EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://cdn.pixabay.com/photo/2013/07/12/15/55/cricket-150560_640.png", Sky Sports Cricket 
+#EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://cdn.pixabay.com/photo/2013/07/12/15/55/cricket-150560_640.png", Sky Sports Cricket 📶
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssc.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg", Sky Sports Main event
+#EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg", Sky Sports Main Event 📶
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmain.m3u8
 
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://toffeelive.com/assets/images/toffee-icon.png" group-title="ICC World Cup 🛜 ",🔲 T Sports 🔲 
@@ -62,7 +62,7 @@ http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/gtv.jpg" group-title="ICC World Cup 🛜 ", Gazi TV 🇧🇩 ✅ Akash DTH✅
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/gtv.jpg" group-title="ICC World Cup 🛜 ", Willow Extra TV ✅💥MH Apurvo ✅
+#EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/WLLOW-logo.png" group-title="ICC World Cup 🛜 ", Willow Extra TV ✅💥MH Apurvo ✅
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="ICC World Cup 🛜 ", ✅ Astro Cricket 1 HD ✅
@@ -76,9 +76,9 @@ https://epg.pw/stream/d52dca05051b999b8704274cefd9190ca5b118280ef1914279604efee5
 
 ########################## Must USE VPN 🛜 ##########################
 
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="Must USE VPN 📡", ✅ ESPN HD New ✅
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="Must USE VPN 📡", ✅ ESPN HD New 📡 ✅
 https://shz.al/~icc_cricket_world_cup_2023
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Must USE VPN 📡", ✅ Astro cricket official link 👇 ✅
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Must USE VPN 📡", ✅ Astro 📡 Cricket official link 👇 ✅
 https://shz.al/~manikastro
 
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="http://test-otv2.ftpbd.net/channel-logo/start%20sports%201%20HD.png", ✅Star Sports HD 1 ✅
