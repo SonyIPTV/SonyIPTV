@@ -3,8 +3,8 @@
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="ICC World Cup 🛜 ",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 🔲 
 http://10.111.200.30/live/feed1001/index.m3u8 
 
-#EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg", sky sports F1 
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssf1.m3u8
+#EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://cdn.pixabay.com/photo/2013/07/12/15/55/cricket-150560_640.png", sky sports F1 
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssc.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg", sky sports main event
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmain.m3u8
