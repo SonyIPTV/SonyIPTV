@@ -3,15 +3,15 @@
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="ICC World Cup 🛜 ",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://cdn.pixabay.com/photo/2013/07/12/15/55/cricket-150560_640.png", Sky Sports Cricket 📶
+#EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://sananda.online/channel-logo/skycricket.png", Sky Sports Cricket 📶
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssc.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/09/SKYMIX-185x278.webp", Sky Sports Main Event 📶
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmain.m3u8
 
-#EXTINF:0, #EXTINF:-1 tvg-logo="https://toffeelive.com/assets/images/toffee-icon.png" group-title="ICC World Cup 🛜 ",🔲 T Sports 🔲 
+#EXTINF:0, #EXTINF:-1 tvg-logo="https://toffeelive.com/assets/images/toffee-icon.png" group-title="ICC World Cup 🛜 ",🔲 T Sports 🔲 📶
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:0, #EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/TSports%2021668953490.png" group-title="ICC World Cup 🛜 ",🔲 T Sports HD🔲
+#EXTINF:0, #EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/TSports%2021668953490.png" group-title="ICC World Cup 🛜 ",🔲 T Sports HD🔲 📶
 http://test-otv2.ftpbd.net/streams/115/index.m3u8
 
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/ptv.jpg", Ptv sports HD ▶️
@@ -50,7 +50,7 @@ https://sportsleading.online/live/stream_e3.m3u8
 #EXTINF:-1 tvg-logo="https://techyhost.com/wp-content/uploads/2020/02/Hotstar.png" group-title="ICC World Cup 🛜 ", ✅Sky Sport F1 ✅ 🇮🇳
 https://linear005-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportsf1)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://techyhost.com/wp-content/uploads/2020/02/Hotstar.png" group-title="ICC World Cup 🛜 ", 💥 Gazi Sports HD💥BDIX💥
+#EXTINF:-1 tvg-logo="https://bdtv.top/uploads/tv_image/t-sports.png" group-title="ICC World Cup 🛜 ", 💥 Gazi Sports HD💥BDIX💥
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/tp.jpg" group-title="ICC World Cup 🛜 ", T Sports HD 🇧🇩 ✅ Akash DTH ✅
