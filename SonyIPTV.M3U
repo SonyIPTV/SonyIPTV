@@ -20,7 +20,7 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png", Astro Cricket (Fast)(no ad breaks)▶️
 http://103.175.242.10:8080/ASTRO_Cricket/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://techyhost.com/wp-content/uploads/2020/02/Hotstar.png" group-title="ICC World Cup 🛜 ", ✅ Espn TV Add free Hindi ✅ 🇮🇳
+#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/ESPN%2021696604658.png" group-title="ICC World Cup 🛜 ", ✅ Espn TV Add free Hindi ✅ 🇮🇳
 https://sportsleading.online/live/stream_e2.m3u8
 
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", Star Sports > 1 < Full HD ✅ 🇵🇰
@@ -47,10 +47,10 @@ https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://techyhost.com/wp-content/uploads/2020/02/Hotstar.png" group-title="ICC World Cup 🛜 ", 💥 Hoster Live 1 🇮🇳 💥 Live 💥
 https://sportsleading.online/live/stream_e3.m3u8
 
-#EXTINF:-1 tvg-logo="https://techyhost.com/wp-content/uploads/2020/02/Hotstar.png" group-title="ICC World Cup 🛜 ", ✅Sky Sport F1 ✅ 🇮🇳
-https://linear005-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportsf1)/manifest_hd.mpd
+#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starsports2.png" group-title="ICC World Cup 🛜 ", ✅ STAR SPORTS 2 HD ✅ 🇮🇳
+http://test-otv2.ftpbd.net/streams/110/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://bdtv.top/uploads/tv_image/t-sports.png" group-title="ICC World Cup 🛜 ", 💥 Gazi Sports HD💥BDIX💥
+#EXTINF:-1 tvg-logo="http://globalflix.net/uploads/tv_image/sananda-tv.png" group-title="ICC World Cup 🛜 ", 💥 Gazi Sports HD💥BDIX💥
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/tp.jpg" group-title="ICC World Cup 🛜 ", T Sports HD 🇧🇩 ✅ Akash DTH ✅
@@ -83,7 +83,7 @@ https://shz.al/~manikastro
 
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="http://test-otv2.ftpbd.net/channel-logo/start%20sports%201%20HD.png", ✅Star Sports HD 1 ✅
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", ✅ Star Sports Select 1 HD ✅
+#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starselect1.png" group-title="ICC World Cup 🛜 ", ✅ Star Sports Select 1 HD ✅
 http://test-otv1.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Sports%20Select%2021667750897.png", ✅Star Sports Select HD 2
 http://test-otv1.ftpbd.net/streams/125/index.m3u8
