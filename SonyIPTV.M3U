@@ -101,10 +101,10 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 ########################## Football 🛜 ##########################
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png", TNT Sports HD 1
 https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", CBC Sports HD 14
-https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", CBC Sports HD 
-https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", DIMA Sports HD 12
+https://headlinessportsfoot.com/chunklist/hlsch12.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", USA Sports HD 
+https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Bein Sports 1 HD Arabic
 https://stream.ayas.ir/hls2/bein1.m3u8
@@ -164,10 +164,16 @@ https://ktpremium.com:443/F4455JG/3554/26315
 https://epg.pw/stream/b16a4df2bcf4f0a677b78e0c1c67ea120a37496fe3d55e4b055b061d6c2f00dc.ctv
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Sky Sports Football ✅ 
 https://sportsleading.online/live/stream_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football Match ✅ 
-https://sportsleading.online/live/stream_5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football Match ✅ TNT 1
+https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football Match ✅ TNT 2
+https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football Match ✅ TNT 3
+https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football 2✅ 
-https://sportsleading.online/live/stream_4.m3u8
+https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅Saudi Pro League Live Match✅
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
@@ -302,9 +308,6 @@ https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png " group-title="BD Channels 🛜", Ekattor 🇧🇩 TV (720p)
 https://ythlsgo.onrender.com/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png" group-title="BD Channels 🛜",Ekhon 🇧🇩 TV HD
-https://ythlsgo.onrender.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="BD Channels 🛜",SATV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 
@@ -329,14 +332,21 @@ http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png",✅ Channel I(Jagobd) 🇧🇩 🔥
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/QRN%20TV1664977301.png " group-title="Islamic", MEKAH TV HD
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/QRN%20TV1664977301.png " group-title="Religion Islamic", MEKAH TV HD
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" http://tv.bapacom.net/assets/images/Madani1664977182.png" group-title="Islamic", MADINAH TV HD
+#EXTINF:-1 tvg-logo=" http://tv.bapacom.net/assets/images/Madani1664977182.png" group-title="Religion Islamic", MADINAH TV HD
 http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
 
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="Religion Islamic",Al Sunnah Al Nabawiyah TV (Medina)
+https://edge.taghtia.com/sa/6.m3u8
 
-########################## Life Style 🛜 ##########################
+#EXTINF:-1 tvg-id="AlQuranKareem.id" group-title="Religion Islamic" tvg-logo="https://aqfadtv.xyz/logos/AlQuranAlKareem.png" ch-number="93", Al Quran Al Kareem (Mecca)
+https://edge.taghtia.com/sa/7.m3u8
+
+#EXTINF:-1 tvg-id="IqraaEu" tvg-name="IqraaEu" tvg-logo="https://i.postimg.cc/RCdkNnCv/images-3.png" group-title="Religion Islamic", Iqraa Europe English
+https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
+############################ Life Style 🛜 ##############################
 
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV HD 1 ✅
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
