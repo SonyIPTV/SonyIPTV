@@ -286,7 +286,7 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD Backup 🛜
-http://digitalnow.live:8080/gratisan/4kERDedz6R/185
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/aljazeeraenglish.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TKNLMYL/trt-world-home-tv.png" group-title="NEWS INTERNASIONAL", TRT World
 http://digitalnow.live:8080/gratisan/4kERDedz6R/188
@@ -294,8 +294,13 @@ http://digitalnow.live:8080/gratisan/4kERDedz6R/188
 #EXTINF:-1 tvg-id="BBCWorldNews" group-title="NEWS INTERNASIONAL" tvg-logo="https://aqfadtv.xyz/logos/BBCWorldNews.png",BBC World News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1008
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd 
+https://nyanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
+#EXTINF:0 tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/BBCWorldNews.png" group-title="NEWS INTERNASIONAL",BBC News (U)
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live28-1080FHD.m3u8
+
+#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg",BBC World News (F*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/bbcworldnews.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", Euro News_📺
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewsuk-xiaomi/playlist.m3u8
