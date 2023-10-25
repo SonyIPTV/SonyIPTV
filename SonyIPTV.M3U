@@ -99,6 +99,9 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 
 
 ########################## Football 🛜 ##########################
+
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://cdn.sincroguia.tv/common/project/img/tv-canales.png",Champions League⚽️
+https://mcdn.mrgamingstreams.com/mrgamingsoccer1.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://www.sonyliv.com/assets/app_launcher_icon/192x192.png", Sony LIV UCL 1
 https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://www.sonyliv.com/assets/app_launcher_icon/192x192.png", Sony LIV UCL 2
