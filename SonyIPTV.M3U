@@ -9,6 +9,9 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssc.m3u8
 #EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/09/SKYMIX-185x278.webp", Sky Sports Main Event 📶
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmain.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/09/SKYMIX-185x278.webp", Sky Sports Main Event 📶BackUp
+https://freeiptv25.bdiptv24.repl.co/live/bdix/SkySportsMainEvent.m3u8
+
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://toffeelive.com/assets/images/toffee-icon.png" group-title="ICC World Cup 🛜 ",🔲 T Sports 🔲 📶
 http://sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54242.m3u8
 
