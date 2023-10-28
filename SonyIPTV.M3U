@@ -28,7 +28,7 @@ http://103.175.242.10:8080/ASTRO_Cricket/index.m3u8
 https://sportsleading.online/live/stream_e2.m3u8
 
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", Star Sports > 1 < Full HD ✅ 🇵🇰
-http://test-otv2.ftpbd.net/streams/110/index.m3u8
+http://acdn.bdixsports.live:1935/event/event.stream/chunklist_w1823111375.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/WLLOW-logo.png" group-title="ICC World Cup 🛜 ", Willow Sports 🇮🇳 ✅
 http://xtv.ooo:8080/live/UAE123450/UAE67890/167583.m3u8
@@ -37,7 +37,7 @@ http://xtv.ooo:8080/live/UAE123450/UAE67890/167583.m3u8
 http://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
 
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", ✅ Star Sports > 1 < Movile SD ✅ 🇳🇿
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w1752884780_b264000.m3u8NFk2RzZJWmlvbnZqLW1CUT0=.m3u8
+http://acdn.bdixsports.live:1935/event/event.stream/chunklist_w1823111375.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", 💥 Star Sports 1 🇮🇳 (Mobitel Data FREE) ✅
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
