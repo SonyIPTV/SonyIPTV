@@ -3,13 +3,16 @@
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="ICC World Cup 🛜 ",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
 
-#EXTINF:0, #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png" group-title="ICC World Cup 🛜 ",🔲 T Sports 𝗙𝗧𝗣 Unique 📶 
+#EXTINF:0, #EXTINF:-1 tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="ICC World Cup 🛜 ",🔲 T Sports 📶 𝗙𝗧𝗣 Unique 📶 
 http://11plus.live/live/tsports/index.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png" group-title="ICC World Cup 🛜 ", Star Sports 2 𝗙𝗧𝗣 Unique 📶 
+#EXTINF:0, tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="ICC World Cup 🛜 ", T Sports Akash DTH 📶 𝗙𝗧𝗣 Unique 📶 
+http://172.17.50.112/live/antbd1002/index.m3u8
+
+#EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="ICC World Cup 🛜 ", Star Sports 📶 𝗙𝗧𝗣 Unique 📶 
 http://172.17.50.112/live/fifa2022/index.m3u8 
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png" group-title="ICC World Cup 🛜 ", Sports 18 𝗙𝗧𝗣 Unique 📶 
+#EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="ICC World Cup 🛜 ", Star Sports 1 📶 𝗙𝗧𝗣 Unique 📶 
 http://172.17.50.112/live/antbd1001/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://sananda.online/channel-logo/skycricket.png", Sky Sports Cricket 📶
@@ -24,20 +27,13 @@ https://freeiptv25.bdiptv24.repl.co/live/bdix/SkySportsMainEvent.m3u8
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://toffeelive.com/assets/images/toffee-icon.png" group-title="ICC World Cup 🛜 ",🔲Cicklife Max 🔲 📶
 http://176.119.29.52:80/live.ts?channelId=125423&uid=3319&deviceMac=00:1A:79:50:31:74
 
-#EXTINF:0, #EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/TSports%2021668953490.png" group-title="ICC World Cup 🛜 ",🔲 Ten Sports HD🔲 📶
-http://aflaxtv.xyz:8080/0613bffd/ebc937b93a/151863
-
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/ptv.jpg", PTV sports HD ▶️
 http://175.107.244.52:4457/play/a08g/index.m3u8
 
-#EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png", Astro Cricket (Fast)(no ad breaks)▶️
-https://freeiptv25.bdiptv24.repl.co/live/bdix/SkySportsMainEvent.m3u8
+https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png", Astro Cricket 
 
 #EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/ESPN%2021696604658.png" group-title="ICC World Cup 🛜 ", ✅ Espn TV Add free Hindi ✅ 🇮🇳
 https://hls.streambtw.com/live/stream_e1.m3u8
-
-#EXTINF:0, #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", Star Sports > 1 < Full HD ✅ 🇵🇰
-http://acdn.bdixsports.live:1935/event/event.stream/chunklist_w1823111375.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/WLLOW-logo.png" group-title="ICC World Cup 🛜 ", Willow Sports 🇮🇳 ✅
 http://xtv.ooo:8080/live/UAE123450/UAE67890/167583.m3u8
