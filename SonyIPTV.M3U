@@ -62,6 +62,7 @@ https://hls.streambtw.com/live/stream_e2.m3u8
 tvg-logo="http://tv.bapacom.net/assets/images/starsports2.png" group-title="ICC World Cup 🛜 ", ✅ STAR SPORTS 2 HD ✅ 🇮🇳
 
 #EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/GTV.png" group-title="ICC World Cup 🛜 ", 💥 Gazi Sports HD💥BDIX💥
+http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/tp.jpg" group-title="ICC World Cup 🛜 ", T Sports HD 🇧🇩 ✅ Akash DTH ✅
