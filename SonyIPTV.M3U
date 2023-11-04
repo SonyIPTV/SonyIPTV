@@ -33,6 +33,9 @@ http://176.119.29.52:80/live.ts?channelId=125423&uid=3319&deviceMac=00:1A:79:50:
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/ptv.jpg", Sky Sports Mix HD ▶️
 https://hls.streambtw.com/live/stream_10.m3u8
 
+#EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo=" ", Sky Sports Mix HD ▶️ Back
+https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd
+
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/ptv-sports.jpg", PTV Sports HD ▶️
 http://175.107.244.52:4457/play/a08g/index.m3u8
 
