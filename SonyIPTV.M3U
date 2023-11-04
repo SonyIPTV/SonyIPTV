@@ -15,6 +15,9 @@ http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="ICC World Cup 🛜 ", Star Sports 1 📶 𝗙𝗧𝗣 Unique 📶 
 http://172.17.50.112/live/antbd1001/index.m3u8
 
+#EXTINF:0, tvg-logo="g" group-title="ICC World Cup 🛜 ", T Sports HD 📶Unique📶 
+https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://sananda.online/channel-logo/skycricket.png", Sky Sports Cricket 📶
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssc.m3u8
 
