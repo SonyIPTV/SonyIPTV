@@ -36,6 +36,9 @@ https://hls.streambtw.com/live/stream_10.m3u8
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/ptv-sports.jpg", PTV Sports HD ▶️
 http://175.107.244.52:4457/play/a08g/index.m3u8
 
+#EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/ptv-sports.jpg", PTV Sports HD B ▶️
+https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/ESPN%2021696604658.png" group-title="ICC World Cup 🛜 ", ✅ Espn TV Add free Hindi ✅ 🇮🇳
 https://hls.streambtw.com/live/stream_e1.m3u8
 
