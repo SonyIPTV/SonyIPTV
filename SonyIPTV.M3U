@@ -171,8 +171,8 @@ https://ktpremium.com:443/F4455JG/3554/26314
 #EXTINF:-1 tvg-id="814.astro" tvg-logo="https://raw.githubusercontent.com/marginfull/ott/main/assp.png?4015" group-title="Football 🛜",Astro Supersport 4
 https://ktpremium.com:443/F4455JG/3554/26315
 
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅Astro SuperSport 2 (backup)✅
-https://epg.pw/stream/b16a4df2bcf4f0a677b78e0c1c67ea120a37496fe3d55e4b055b061d6c2f00dc.ctv
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Bein Sports-Haber✅
+https://raw.githubusercontent.com/ZazerConer/YouTube-to-M3U8/main/beinsports-haber.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Sky Sports Football ✅ 
 https://sportsleading.online/live/stream_1.m3u8
 
@@ -288,7 +288,7 @@ http://11plus.live/live/Star_Sport_Select1HD/index.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery Asia HD 
 https://epg.pw/stream/1a4a475d0e67d36b61626b27cd70dfd211195dac443aa3002a598f8f5efba659.ctv
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery Asia HD B
-https://epg.pw/stream/70b45a69c6a8886daa2256175c872f69838997511abfb097dd8c2ad0bcc42db7.ctv
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
  
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery HD (Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
@@ -321,6 +321,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 ########################## NEWS ##########################
 
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", RT News (EN) 🛜
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
