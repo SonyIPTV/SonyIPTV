@@ -59,6 +59,8 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.
 
 #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", ✅ Star Sports 1 SD 🇮🇳 💥Live💥 ✅
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", ✅ B Star Sports 1  🇮🇳 💥Live💥 ✅
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sp1.jpg" group-title="ICC World Cup 🛜 ", Star Sports Tamil 🇧🇩 > 1 < HD 
 https://serverbackupchannel.xyz/StarsportsTamil.m3u8
@@ -84,12 +86,13 @@ https://epg.pw/stream/3518ec06e22ffdedd358d57645aa473a36b8d1620ea4f8d1bd899bd3be
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="ICC World Cup 🛜 ", ✅ Astro Cricket 1 HD ✅ Backup 2
 https://epg.pw/stream/d52dca05051b999b8704274cefd9190ca5b118280ef1914279604efee5e90093.ctv
 
-########################## Must USE VPN 🛜 ##########################
-
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="Must USE VPN 📡", ✅ ESPN HD New 📡 ✅
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="ICC World Cup 🛜", ✅ ESPN HD New 📡 ✅
 https://tvanondo.xyz/Free_Willow-extra/index.m3u8
 
+########################## Must USE VPN 🛜 ##########################
+
 https://shz.al/~icc_cricket_world_cup_2023
+
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Must USE VPN 📡", ✅ Astro 📡 Cricket official link 👇 ✅
 https://shz.al/~manikastro
 
