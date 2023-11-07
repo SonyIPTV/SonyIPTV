@@ -114,7 +114,7 @@ https://mcdn.mrgamingstreams.com/mrgamingsoccer1.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://www.sonyliv.com/assets/app_launcher_icon/192x192.png", Sony LIV UCL 1
 https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://www.sonyliv.com/assets/app_launcher_icon/192x192.png", Sony LIV UCL 2
-https://dai.google.com/linear/hls/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
+https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png", TNT Sports HD 1
 https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", True Sport2 Sports HD
@@ -416,6 +416,11 @@ https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
 ############################ Life Style 🛜 ##############################
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Mbc 4 TV HD 1 ✅
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
+#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Cinemax HD 1 ✅
+https://ctrl.laotv.la/live/Cinemax/index.m3u8
+#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Foreign Movie HD ✅
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV HD 1 ✅
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
