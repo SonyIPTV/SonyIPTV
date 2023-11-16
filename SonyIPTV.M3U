@@ -438,6 +438,9 @@ https://ottstudio-freemoviesplus-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Foreign Movie HD ✅
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 
+#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Boolywood HD ✅
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV HD 1 ✅
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
