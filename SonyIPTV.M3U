@@ -51,7 +51,7 @@ https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=test
 https://hls.streambtw.com/live/stream_e1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/WLLOW-logo.png" group-title="ICC World Cup 🛜 ", Willow Sports 🇮🇳 ✅
-http://xtv.ooo:8080/live/UAE123450/UAE67890/167583.m3u8
+http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/WLLOW-logo.png" group-title="ICC World Cup 🛜 ", 💥 TLT + Willow Sports 🇮🇳 (Full HD) ✅
 http://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
@@ -82,6 +82,7 @@ tvg-logo="http://tv.bapacom.net/assets/images/starsports2.png" group-title="ICC 
 
 #EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/GTV.png" group-title="ICC World Cup 🛜 ", 💥 Gazi Sports HD💥BDIX💥
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
+
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/tp.jpg" group-title="ICC World Cup 🛜 ", T Sports HD 🇧🇩 ✅ Akash DTH ✅
