@@ -3,6 +3,9 @@
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="ICC World Cup 🛜 ",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
 
+#EXTINF:0, #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="ICC World Cup 🛜 ",🔲 Astro Cricket 📶 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="ICC World Cup 🛜 ",🔲 T Sports 📶 𝗙𝗧𝗣 Unique 📶 
 http://11plus.live/live/tsports/index.m3u8
 
