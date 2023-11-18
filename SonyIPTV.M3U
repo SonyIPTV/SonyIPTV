@@ -314,6 +314,8 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel
 
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery Hindi HD(BD)
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery Malaysia
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Animal%20Planet1664974986.png", Animal Planet Multi Audio
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
