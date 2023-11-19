@@ -6,6 +6,12 @@ http://10.111.200.30/live/feed1001/index.m3u8
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="ICC World Cup 🛜 ",🔲 Astro Cricket 📶 
 http://113.212.111.246:8080/hls/col12.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ",🔲 Sky Sports Cricket 📶 HD
+https://247b.mrgamingstreams.com/mrgamingcricket.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ICC World Cup 🛜 ",🔲 Event TV 📶 HD
+https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
+
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="ICC World Cup 🛜 ",🔲 T Sports 📶 𝗙𝗧𝗣 Unique 📶 
 http://11plus.live/live/tsports/index.m3u8
 
