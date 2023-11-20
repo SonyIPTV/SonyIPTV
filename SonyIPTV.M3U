@@ -14,7 +14,6 @@ https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="ICC World Cup 🛜 ",🔲 T Sports 📶 𝗙𝗧𝗣 Unique 📶 
 http://11plus.live/live/tsports/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="ICC World Cup 🛜",World Cup 2023 Live T Sports
 https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="ICC World Cup 🛜",World Cup 2023 Live Gazi TV
@@ -63,8 +62,8 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/ptv-sports.jpg", PTV Sports HD B ▶️
 https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/ESPN%2021696604658.png" group-title="ICC World Cup 🛜 ", ✅ Espn TV Add free Hindi ✅ 🇮🇳
-https://hls.streambtw.com/live/stream_e1.m3u8
+#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/ESPN%2021696604658.png" group-title="ICC World Cup 🛜 ", ✅ T Sports HD ✅ 🇮🇳
+http://103.141.2.37:25461/live/web/web/586.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/WLLOW-logo.png" group-title="ICC World Cup 🛜 ", Willow Sports 🇮🇳 ✅
 http://113.212.111.246:8080/hls/col12.m3u8
@@ -91,10 +90,10 @@ https://serverbackupchannel.xyz/StarsportsTamil.m3u8
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" group-title="ICC World Cup 🛜 ", ✅ Willow Xtra 🇲🇾 Cricket HD ✅
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
 
-#EXTINF:-1 tvg-logo="https://techyhost.com/wp-content/uploads/2020/02/Hotstar.png" group-title="ICC World Cup 🛜 ", 💥 Hoster Live 1 ENG 🇮🇳 💥 Live 💥
+#EXTINF:-1 tvg-logo="https://techyhost.com/wp-content/uploads/2020/02/Hotstar.png" group-title="ICC World Cup 🛜 ", 💥 Star Sports 1 🇮🇳 💥 
 https://hls.streambtw.com/live/stream_e2.m3u8
-
 tvg-logo="http://tv.bapacom.net/assets/images/starsports2.png" group-title="ICC World Cup 🛜 ", ✅ STAR SPORTS 2 HD ✅ 🇮🇳
+http://103.141.2.37:25461/live/web/web/581.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/GTV.png" group-title="ICC World Cup 🛜 ", 💥 Gazi Sports HD💥BDIX💥
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
@@ -120,18 +119,27 @@ https://shz.al/~icc_cricket_world_cup_2023
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Must USE VPN 📡", ✅ Astro 📡 Cricket official link 👇 ✅
 https://shz.al/~manikastro
 
-#EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="http://test-otv2.ftpbd.net/channel-logo/start%20sports%201%20HD.png", ✅Star Sports HD 1 ✅
-http://test-otv2.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="http://test-otv2.ftpbd.net/channel-logo/start%20sports%201%20HD.png", ✅Star Sports HD 3 ✅
+http://103.141.2.37:25461/live/web/web/578.m3u8
+#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starselect1.png" group-title="ICC World Cup 🛜 ", ✅ Star Sports Select 1 HD ✅
+http://103.141.2.37:25461/live/web/web/579.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starselect1.png" group-title="ICC World Cup 🛜 ", ✅ Star Sports Select 1 HD ✅
 http://test-otv1.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Sports%20Select%2021667750897.png", ✅Star Sports Select HD 2
-http://test-otv1.ftpbd.net/streams/125/index.m3u8
+http://103.141.2.37:25461/live/web/web/583.m3u8
 
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sony-5.png", Sony Ten 5 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
+#EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sony-5.png", Sony Ten 5 HD B
+http://103.141.2.37:25461/live/web/web/577.m3u8
 
 
 ########################## Football 🛜 ##########################
+
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Via Play Sports 1 ✅
+https://hls.streambtw.com/live/stream_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Via Play Sports 2 ✅
+https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://cdn.sincroguia.tv/common/project/img/tv-canales.png",Champions League⚽️
 https://mcdn.mrgamingstreams.com/mrgamingsoccer1.m3u8
@@ -156,10 +164,12 @@ https://stream.ayas.ir/hls2/bein3.m3u8
 https://stream.ayas.ir/hls2/bein4.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/XPEdAKh.jpg", Bein Sports 5 HD Arabic
 https://stream.ayas.ir/hls2/bein5.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Sony Ten 1 ✅
+http://103.141.2.37:25461/live/web/web/585.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sony-2.png", Ten Sports 2 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
-
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sony-2.png", Ten Sports 2 HD
+http://103.141.2.37:25461/live/web/web/584.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://assets.mspimages.in/gear/wp-content/uploads/2022/11/Sports-18-1536x858.jpg", Sports 18 HD
 http://test-otv2.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png", Eurosports
@@ -408,7 +418,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 ########################## BD Channels ##########################
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png " group-title="BD Channels 🛜", Ekattor 🇧🇩 TV (720p)
-https://ythlsgo.onrender.com/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+https://raw.githubusercontent.com/gift4bd/ytm/main/EkattorTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD Channels 🛜",NTV(Youtube)
+https://raw.githubusercontent.com/gift4bd/ytm/main/NTVBD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="BD Channels 🛜",SATV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
@@ -416,7 +429,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="BD Channels 🛜",Desh TV(BD)
 http://103.113.149.52:8000/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="BD Channels 🛜",Ekhone TV(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="BD Channels 🛜",Ekhon TV (BD)
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD Channels 🛜",Jago News 24(Jagobd)
