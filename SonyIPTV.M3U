@@ -156,12 +156,16 @@ https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Sports TV 1 HD Portugal 
 https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/2osPQke.jpg", Bein Sports 2 HD Arabic
-https://stream.ayas.ir/hls2/bein2.m3u8 
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/XPEdAKh.jpg", Bein Sports 3 HD Arabic
-https://stream.ayas.ir/hls2/bein3.m3u8
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/XPEdAKh.jpg", Bein Sports 4 HD Arabic
-https://stream.ayas.ir/hls2/bein4.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Sports TV HD Portugal 
+https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Sports TV HD 2 Portugal 
+https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/2osPQke.jpg", TYC Sports HD Arg
+https://worknew.crystalnew.pro/live/n-4/chunks.m3u8 
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/XPEdAKh.jpg", Nova Sports HD 
+https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/XPEdAKh.jpg", Nova Sports HD 3
+https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/XPEdAKh.jpg", Bein Sports 5 HD Arabic
 https://stream.ayas.ir/hls2/bein5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Sony Ten 1 ✅
@@ -171,7 +175,8 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://raw.githack.com/tvbd/tvbd.github.io/master/playlist/playjs/img/sony-2.png", Ten Sports 2 HD
 http://103.141.2.37:25461/live/web/web/584.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://assets.mspimages.in/gear/wp-content/uploads/2022/11/Sports-18-1536x858.jpg", Sports 18 HD
-http://test-otv2.ftpbd.net/streams/107/index.m3u8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_131634_eng=131600-video=2906400.m3u8
+
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png", Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png", Eurosports B
