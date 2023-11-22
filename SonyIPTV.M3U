@@ -154,8 +154,8 @@ https://ctrl.laotv.la/live/TSport2/manifest.mpd
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", USA Sports HD 
 https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
 
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Bein Sports 1 HD Arabic
-https://stream.ayas.ir/hls2/bein1.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Sports TV 1 HD Portugal 
+https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/2osPQke.jpg", Bein Sports 2 HD Arabic
 https://stream.ayas.ir/hls2/bein2.m3u8 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/XPEdAKh.jpg", Bein Sports 3 HD Arabic
