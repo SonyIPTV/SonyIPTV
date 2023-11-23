@@ -14,11 +14,11 @@ https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="ICC World Cup 🛜 ",🔲 T Sports 📶 𝗙𝗧𝗣 Unique 📶 
 http://11plus.live/live/tsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="ICC World Cup 🛜",World Cup 2023 Live T Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="ICC World Cup 🛜", T Sports
 https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="ICC World Cup 🛜",World Cup 2023 Live Gazi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="ICC World Cup 🛜", Gazi TV
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="ICC World Cup 🛜",World Cup 2023 Live Willow HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="ICC World Cup 🛜", Willow HD
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 
 #EXTINF:0, tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="ICC World Cup 🛜 ", T Sports Akash DTH 📶 𝗙𝗧𝗣 Unique 📶 
@@ -34,9 +34,6 @@ http://172.17.50.112/live/antbd1001/index.m3u8
 https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0, tvg-logo="g" group-title="ICC World Cup 🛜 ", Sky Cricket HD 📶📶 
 https://247b.mrgamingstreams.com/mrgamingcricket.m3u8
-
-#EXTINF:0, tvg-logo="g" group-title="ICC World Cup 🛜 ", T Sports 📶 HD 📶 
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1699846059~exp=1699889259~acl=/*~data=45.61.146.183-WEB~hmac=84f8c51bc063274c18a9b40ebd1f46c555238b82d8ffc2ccb4dc074245123f18
 
 #EXTINF:-1 tvg-id="" group-title="ICC World Cup 🛜" ch-number="" tvg-logo="https://sananda.online/channel-logo/skycricket.png", Sky Sports Cricket 📶
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssc.m3u8
@@ -123,8 +120,7 @@ https://shz.al/~manikastro
 http://103.141.2.37:25461/live/web/web/578.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starselect1.png" group-title="ICC World Cup 🛜 ", ✅ Star Sports Select 1 HD ✅
 http://103.141.2.37:25461/live/web/web/579.m3u8
-#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starselect1.png" group-title="ICC World Cup 🛜 ", ✅ Star Sports Select 1 HD ✅
-http://test-otv1.ftpbd.net/streams/116/index.m3u8
+
 #EXTINF:-1 group-title="ICC World Cup 🛜 " tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Sports%20Select%2021667750897.png", ✅Star Sports Select HD 2
 http://103.141.2.37:25461/live/web/web/583.m3u8
 
@@ -360,6 +356,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/National%20Geography1664975151.png" ch-number="563", Nat Geo UK
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeouk.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/National%20Geography1664975151.png" ch-number="563", Nat Wild
+http://103.141.2.37:25461/live/web/web/576.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/National%20Geography%20Wild1664975242.png" ch-number="564", Nat Geo Wild UK
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeowuk.m3u8
@@ -473,6 +471,9 @@ https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
 
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Mbc 4 TV HD 1 ✅
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
+#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Sony pix (English) ✅
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Cinemax HD 1 ✅
 https://ctrl.laotv.la/live/Cinemax/index.m3u8
