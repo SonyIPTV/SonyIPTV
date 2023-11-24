@@ -18,26 +18,10 @@ https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://toffeelive.com/assets/images/toffee-icon.png" group-title="Cricket 🏏",🔲Cicklife Max 🔲 📶
 http://176.119.29.52:80/live.ts?channelId=125423&uid=3319&deviceMac=00:1A:79:50:31:74
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="Cricket 🏏", T Sports
 https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="Cricket 🏏", Gazi TV
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
-
-#EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD 📶 𝗙𝗧𝗣 Unique 📶
-http://11plus.live/live/ptv/index.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="FTP 📺", T Sports Akash DTH 📶 𝗙𝗧𝗣 Unique 📶 
-http://172.17.50.112/live/antbd1002/index.m3u8
-#EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="FTP 📺", Star Sports 📶 𝗙𝗧𝗣 Unique 📶 
-http://172.17.50.112/live/fifa2022/index.m3u8 
-#EXTINF:0, #EXTINF:-1 tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="FTP 📺",🔲 T Sports SD 📶 𝗙𝗧𝗣 Unique 📶 
-http://11plus.live/live/tsports/index.m3u8
-#EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="FTP 📺", Star Sports 1 📶 𝗙𝗧𝗣 Unique 📶 
-http://172.17.50.112/live/antbd1001/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starsports2.png" group-title="FTP 📺", ✅ STAR SPORTS 2 HD ✅ 🇮🇳
-http://11plus.live/live/starsports2/index.m3u8
-#EXTINF:0, tvg-logo="http://11plus.live/img/tsports.jpg" group-title="FTP 📺", T Sports HD 📶Unique📶 
-https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" group-title="Cricket 🏏" ch-number="" tvg-logo="https://sananda.online/channel-logo/skycricket.png", Sky Sports Cricket 📶
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssc.m3u8
@@ -60,9 +44,27 @@ https://epg.pw/stream/3518ec06e22ffdedd358d57645aa473a36b8d1620ea4f8d1bd899bd3be
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Cricket 🏏", ✅ Astro Cricket 1 HD ✅ Backup 2
 https://epg.pw/stream/d52dca05051b999b8704274cefd9190ca5b118280ef1914279604efee5e90093.ctv
 
+
 ######################### Must USE VPN 🛜 ##########################
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Must USE VPN 📡", ✅ Astro 📡 Cricket official link 👇 ✅
 https://shz.al/~manikastro
+
+######################### FTP 📺 ##########################
+#EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD 📶 𝗙𝗧𝗣 Unique 📶
+http://11plus.live/live/ptv/index.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="FTP 📺", T Sports Akash DTH 📶 𝗙𝗧𝗣 Unique 📶 
+http://172.17.50.112/live/antbd1002/index.m3u8
+#EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="FTP 📺", Star Sports 📶 𝗙𝗧𝗣 Unique 📶 
+http://172.17.50.112/live/fifa2022/index.m3u8 
+#EXTINF:0, #EXTINF:-1 tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="FTP 📺",🔲 T Sports SD 📶 𝗙𝗧𝗣 Unique 📶 
+http://11plus.live/live/tsports/index.m3u8
+#EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="FTP 📺", Star Sports 1 📶 𝗙𝗧𝗣 Unique 📶 
+http://172.17.50.112/live/antbd1001/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starsports2.png" group-title="FTP 📺", ✅ STAR SPORTS 2 HD ✅ 🇮🇳
+http://11plus.live/live/starsports2/index.m3u8
+#EXTINF:0, tvg-logo="http://11plus.live/img/tsports.jpg" group-title="FTP 📺", T Sports HD 📶Unique📶 
+https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
+######################### FTP 📺 ##########################
 
 #EXTINF:0, #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports > 1 < SD ✅ 🇳🇿
 https://freeiptv25.bdiptv24.repl.co/live/bdix/StarSports1HD.m3u8
@@ -77,13 +79,19 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/sony-5.png", Sony Ten 5 HD B
 http://103.141.2.37:25461/live/web/web/577.m3u8
 
-
 ########################## Football 🛜 ##########################
-
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Via Play Sports 1 ✅
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Via Play Sports 2 ✅
-https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Bein Sports 6 HD ✅FIFA U 19
+http://node01.nntv.az:8153/ch5/ch5.hi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Sport 1 HD ✅EPL
+http://nl.seetv.cc/play/1522/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ BUNDES LIGA ✅
+http://node01.nntv.az:8153/ch4/ch4.hi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ BeIN Sport 1 HD ✅
+http://nl.seetv.cc/play/1101/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ BeIN Sport 2 HD ✅
+http://nl.seetv.cc/play/1102/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ ONE 2 HD HD ✅
+http://nl.seetv.cc/play/6915/C94BDA70C92CDB2/video.m3u8
 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://cdn.sincroguia.tv/common/project/img/tv-canales.png",Champions League⚽️
 https://mcdn.mrgamingstreams.com/mrgamingsoccer1.m3u8
@@ -252,25 +260,17 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
 
-
-
-
-
+########################## Speed internet 🛜  ##########################
 #EXTINF:-1 tvg-logo="" group-title="Speed internet 🛜 ", T Sports 1 HD Speed internet 📺 🛜
 http://11plus.live/live/tsports/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Speed internet 🛜 ", Gazi Sports HD Speed internet 📺 🛜
 http://11plus.live/live/Gazi-TV/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Speed internet 🛜 ", Star Sports 1 HD Speed internet 📺 🛜
 http://11plus.live/live/stersports1hd/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Speed internet 🛜 ", Star Sports 2 HD Speed internet 📺 🛜
 http://11plus.live/live/starsports2/index.m3u8
- 
 #EXTINF:-1 tvg-logo="" group-title="Speed internet 🛜 ", PTV HD Speed internet 📺 🛜
 http://11plus.live/live/ptv/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Speed internet 🛜 ", Star Sports SL 1 HD Speed internet 📺
 http://11plus.live/live/Star_Sport_Select1HD/index.m3u8
 
@@ -325,11 +325,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Infotainment Channels", 4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/56508c94-eeb8-4db4-9c85-ed0e1de310b1/1.m3u8
 
-########################## NEWS ##########################
+########################## NEWS INTERNASIONAL ##########################
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -337,18 +336,15 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", CNBC Indonesia (EN) 🛜
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", CGTN News (EN) 🛜
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://test-otv1.ftpbd.net/channel-logo/al%20jazeera.jpg"" group-title="NEWS INTERNASIONAL", Aljazeera HD 🛜
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD Backup 🛜
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
-
 #EXTINF:0 tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/BBCWorldNews.png" group-title="NEWS INTERNASIONAL", BBC News (U) 📶
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live28-1080FHD.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", Euro News_📺
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewsuk-xiaomi/playlist.m3u8
