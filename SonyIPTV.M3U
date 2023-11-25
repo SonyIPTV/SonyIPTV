@@ -241,26 +241,6 @@ https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://thumbor.prod.vidiocdn.com/325h1CgqikfL2T35OYA0SOBY3Co=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg",Bein 3 ✅ (V*)
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSCz4wXP/ssc1.png" group-title="Football 🛜",SSC 1
-https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8763ccad3d146c2b15f8a77a4d6d733:ab87f6ae46b2dc187bd94cbb48cfe074
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Px8ZZf1S/ssc2.png" group-title="Football 🛜",SSC 2
-https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3af2aa1da4a41cbb37b1dbe43b46782:b6b74f29f6d1501b989c96aec4dae599
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sghRttPt/ssc3.png" group-title="Football 🛜",SSC 3
-https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bf5a32868224a6f9f3a749a9ea20eb2:0ace749c97932aa44434da3a88c1ee69
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tTs9rYTH/ssc-E1.png" group-title="Football 🛜",SSC EXTRA 1
-https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L6ZgTZcb/download-44.png"" group-title="Football 🛜",✅ TNT Sports 1 ru ✅
 https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
 
