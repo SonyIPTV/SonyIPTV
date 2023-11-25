@@ -17,6 +17,10 @@ https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports▶️Himel
 https://ch.bdtubelive.xyz/ayna.m3u8?id=46
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports▶️3
+http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/16633
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", Ten Sports▶️
+http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/151863
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Sky Sports Cricket 📶 HD
 https://247b.mrgamingstreams.com/mrgamingcricket.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
@@ -179,16 +183,16 @@ https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 https://edge1.laotv.la/live/THD7/index.m3u8
 
 #EXTINF:-1 tvg-id="811.astro" tvg-logo="https://raw.githubusercontent.com/marginfull/ott/main/assp.png?4015" group-title="Football 🛜",Astro Supersport
-https://ktpremium.com:443/F4455JG/3554/26312
+http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/146068
 
 #EXTINF:-1 tvg-id="812.astro" tvg-logo="https://raw.githubusercontent.com/marginfull/ott/main/assp.png?4015" group-title="Football 🛜",Astro Supersport 2
-https://ktpremium.com:443/F4455JG/3554/26313
+http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/157556
 
 #EXTINF:-1 tvg-id="813.astro" tvg-logo="https://raw.githubusercontent.com/marginfull/ott/main/assp.png?4015" group-title="Football 🛜",Astro Supersport 3
-https://ktpremium.com:443/F4455JG/3554/26314
+http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/157557
 
 #EXTINF:-1 tvg-id="814.astro" tvg-logo="https://raw.githubusercontent.com/marginfull/ott/main/assp.png?4015" group-title="Football 🛜",Astro Supersport 4
-https://ktpremium.com:443/F4455JG/3554/26315
+http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/157558
 
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Bein Sports-Haber✅
 https://raw.githubusercontent.com/ZazerConer/YouTube-to-M3U8/main/beinsports-haber.m3u8
