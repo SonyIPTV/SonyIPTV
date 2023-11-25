@@ -15,6 +15,8 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD B ▶️
 https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports▶️Himel
+https://ch.bdtubelive.xyz/ayna.m3u8?id=46
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Sky Sports Cricket 📶 HD
 https://247b.mrgamingstreams.com/mrgamingcricket.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
@@ -32,7 +34,7 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssc.m3u8
 #EXTINF:-1 tvg-id="" group-title="Cricket 🏏" ch-number="" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/09/SKYMIX-185x278.webp", Sky Sports Main Event 📶
 https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmain.m3u8
 #EXTINF:-1 tvg-id="" group-title="Cricket 🏏" ch-number="" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/09/SKYMIX-185x278.webp", Sky Sports Main Event 📶BackUp
-https://freeiptv25.bdiptv24.repl.co/live/bdix/SkySportsMainEvent.m3u8
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Mix HD ▶️ Back
 https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd
 
@@ -70,10 +72,14 @@ http://11plus.live/live/starsports2/index.m3u8
 https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
 ######################### FTP 📺 ##########################
 
-#EXTINF:0, #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports > 1 < SD ✅ 🇳🇿
+#EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1 SD ✅ 🇳🇿
 https://freeiptv25.bdiptv24.repl.co/live/bdix/StarSports1HD.m3u8
+#EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports > 1 < HD ✅ 🇳🇿
+http://103.141.2.37:25461/live/web/web/580.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starselect1.png" group-title="Cricket 🏏", ✅ Star Sports Select 1 HD ✅
 http://103.141.2.37:25461/live/web/web/579.m3u8
+#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starselect1.png" group-title="Cricket 🏏", ✅ Star Sports Select 1 HD ✅B
+https://ch.bdtubelive.xyz/ayna.m3u8?id=47
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/select2.jpg", ✅Star Sports Select HD 2
 http://103.141.2.37:25461/live/web/web/583.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/star_sports3.jpg", ✅Star Sports HD 3 ✅
@@ -82,6 +88,13 @@ http://103.141.2.37:25461/live/web/web/578.m3u8
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/sony-5.png", Sony Ten 5 HD B
 http://103.141.2.37:25461/live/web/web/577.m3u8
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/18.png", Sports 18 HD ENG
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_indvsaus_t2001/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/18.png", Sports 18 HD BAN
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099769/hd_akamai_iosmob_avc_ben_indvsaus_t2001/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/18.png", Sports 18 HD ENG 2
+https://ch.bdtubelive.xyz/ayna.m3u8?id=44
 
 ########################## Football 🛜 ##########################
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Bein Sports 6 HD ✅FIFA U 19
@@ -296,10 +309,15 @@ https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery Malaysia
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
+#EXTINF:-1 tvg-logo="http://11plus.live/img/dis.png" group-title="Infotainment Channels",Discovery_Bangla
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Animal%20Planet1664974986.png", Animal Planet Multi Audio
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Animal%20Planet1664974986.png", Animal Planet Backup
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+#EXTINF:-1 tvg-logo="http://11plus.live/img/animalplanent.jpg" group-title="Infotainment Channels", Animal Planet HD
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel XP English(BD)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
