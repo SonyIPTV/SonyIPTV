@@ -362,8 +362,11 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", Euro News_📺
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-euronewsuk-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="News", DW English 📶_📺
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="NEWS INTERNASIONAL", DW English 📶_📺
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="NEWS INTERNASIONAL", DW English 📺
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1 tvg-id="cnn" group-title="NEWS INTERNASIONAL" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN 🌏
 https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
