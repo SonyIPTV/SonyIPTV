@@ -308,6 +308,13 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel Channel(BD)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Infotainment Channels",Gusto TV
+https://i.mjh.nz/SamsungTVPlus/CABB2500021YQ.m3u8
+
+#EXTINF:-1 tvg-logo="http://11plus.live/img/Nat_Geo_HD.png" group-title="Infotainment Channels",NAT Wild TV
+https://ythls.armelin.one/video/BJ3Yv572V1A.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/National%20Geography1664975151.png" ch-number="563", Nat Geo UK
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeouk.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/National%20Geography1664975151.png" ch-number="563", Nat Wild
@@ -412,6 +419,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png",✅ Channel I(Jagobd) 🇧🇩 🔥
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/QRN%20TV1664977301.png " group-title="Religion Islamic", Deen TV HD
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/QRN%20TV1664977301.png " group-title="Religion Islamic", MEKAH TV HD
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
@@ -429,8 +439,14 @@ https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
 
 ############################ Life Style 🛜 ##############################
 
+#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", & flx HD 1 ✅
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
+
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Mbc 4 TV HD 1 ✅
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
+#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Lotus Macau HD ✅
+https://anren.live/HK/BiIOU11uLA.m3u8
 
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Sony pix (English) ✅
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
