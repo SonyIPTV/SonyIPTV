@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ ⭐⭐🟢 . B A N  V . N Z™ 🟢 ⭐⭐ 💥📺💥 ✅
+https://live.himel-himu@1rdk.short.gy/TSports-HD-Bdix/hls/Himel-Op.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/National_T20_Cup_2021_Logo.png" group-title="Cricket 🏏", ✅ National T20 Cup 🇵🇰 💥📺💥 ✅
 https://is.gd/LiveYoutube.m3u8
@@ -15,7 +17,7 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD B ▶️
 https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports▶️Himel
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports▶️
 https://ch.bdtubelive.xyz/ayna.m3u8?id=46
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports▶️3
 http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/16633
