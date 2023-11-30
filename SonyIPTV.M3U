@@ -291,6 +291,9 @@ http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B401443184014431
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery HD (Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery Asia HD
+https://code.vthanhtivi.pw/getlink/eazie/243125/playlist.m3u8
+
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery English HD (BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel.m3u8
 
@@ -298,6 +301,9 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery Malaysia
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png",TLC (L*)
+https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://11plus.live/img/dis.png" group-title="Infotainment Channels",Discovery_Bangla
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
@@ -308,6 +314,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 #EXTINF:-1 tvg-logo="http://11plus.live/img/animalplanent.jpg" group-title="Infotainment Channels", Animal Planet HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png", ANIMAL PLANET HD
+https://code.vthanhtivi.pw/getlink/eazie/243127/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel XP English(BD)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -344,6 +352,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 #EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Infotainment Channels",Asian Food Network
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Food%20Network.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="" group-title="LIFESTYLE",Asian Food Network (F*)
+https://code.vthanhtivi.pw/getlink/eazie/243128/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -466,6 +476,15 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Cinemax HD 1 ✅
 https://ctrl.laotv.la/live/Cinemax/index.m3u8
+
+#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", ONE HD  ✅
+https://code.vthanhtivi.pw/getlink/eazie/243114/playlist.m3u8
+
+#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", MTV Live HD  ✅
+https://code.vthanhtivi.pw/getlink/eazie/243115/playlist.m3u8
+
+#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", KBS HD  ✅
+https://code.vthanhtivi.pw/getlink/eazie/243112/playlist.m3u8
 
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Free Movies Plus HD 1 ✅
 https://ottstudio-freemoviesplus-1-us.tcl.wurl.tv/playlist.m3u8
