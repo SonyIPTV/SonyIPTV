@@ -2,21 +2,27 @@
 
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ ⭐⭐🟢 . B A N  V . N Z™ 🟢 ⭐⭐ 💥📺💥 ✅
 https://live.himel-himu@1rdk.short.gy/TSports-HD-Bdix/hls/Himel-Op.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/National_T20_Cup_2021_Logo.png" group-title="Cricket 🏏", ✅ National T20 Cup 🇵🇰 💥📺💥 ✅
-https://is.gd/LiveYoutube.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/National_T20_Cup_2021_Logo.png" group-title="Cricket 🏏", ✅ Ind vs Aus T20 Cup 🇵🇰 💥📺💥 ✅
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_indvsaus_t2004/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Cricket 🏏", ✅ Astro Cricket 1 HD ✅
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/157565
+
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1  🇮🇳 💥SD💥 ✅
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="hhttp://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1 SD 🇮🇳 💥
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD B ▶️
 https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports▶️
@@ -25,8 +31,10 @@ https://ch.bdtubelive.xyz/ayna.m3u8?id=46
 http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/16633
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", Ten Sports▶️
 http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/151863
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Sky Sports Cricket 📶 HD
 https://247b.mrgamingstreams.com/mrgamingcricket.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event Extra TV 📶 HD
