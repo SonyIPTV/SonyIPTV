@@ -441,6 +441,8 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
 ########################## BD Channels ##########################
+#EXTINF:-1 tvg-logo=""group-title="BD Channels 🛜",Zee Bangla Cinema (Auto quality) 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png " group-title="BD Channels 🛜", Ekattor 🇧🇩 TV (720p)
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkattorTV.m3u8
