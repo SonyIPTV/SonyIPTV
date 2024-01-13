@@ -104,6 +104,8 @@ https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
 ########################## Infotainment Channels ##########################
 #EXTINF:-1 tvg-id="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/National%20Geography1664975151.png" ch-number="563", Nat Geo UK
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeouk.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/National%20Geography1664975151.png" ch-number="563", Nat Geo 
+http://103.132.181.118:82/play/a006
 #EXTINF:-1 tvg-logo="http://11plus.live/img/dis.png" group-title="Infotainment Channels",Discovery_Bangla
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery Asia HD B
@@ -192,6 +194,10 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 ########################## BD Channels ##########################
 #EXTINF:-1 tvg-logo=""group-title="BD Channels 🛜",Zee Bangla Cinema (Auto quality) 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD Channels 🛜",Zee Bangla Cinema (Auto quality) 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacinema-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD Channels 🛜", Jalsha Movies HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png " group-title="BD Channels 🛜", Ekattor 🇧🇩 TV (720p)
 http://195.26.87.217/live.ts?channelId=95&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -203,6 +209,8 @@ https://raw.githubusercontent.com/gift4bd/ytm/main/NTVBD.m3u8
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://test-otv1.ftpbd.net/channel-logo/jamuna%20tv.png"group-title="BD Channels 🛜", ✅ Jamuna TV 🇧🇩 
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" "group-title="BD Channels 🛜", ✅ channel 24 HD
+https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/QRN%20TV1664977301.png " group-title="Religion Islamic", Deen TV HD
@@ -228,26 +236,8 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Mbc 4 TV HD 1 ✅
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 
-#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Lotus Macau HD ✅
-https://anren.live/HK/BiIOU11uLA.m3u8
-
-#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Sony pix (English) ✅
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Cinemax HD 1 ✅
 https://ctrl.laotv.la/live/Cinemax/index.m3u8
-
-#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", ONE HD  ✅
-https://code.vthanhtivi.pw/getlink/eazie/243114/playlist.m3u8
-
-#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", MTV Live HD  ✅
-https://code.vthanhtivi.pw/getlink/eazie/243115/playlist.m3u8
-
-#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", KBS HD  ✅
-https://code.vthanhtivi.pw/getlink/eazie/243112/playlist.m3u8
-
-#EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Free Movies Plus HD 1 ✅
-https://ottstudio-freemoviesplus-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo=", Foreign Movie HD ✅
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
@@ -257,13 +247,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV HD 1 ✅
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", ✅ Fashion TV HD 2✅
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", ✅ Fashion TV HD 2✅
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/63W4vc03/download-10.jpg" group-title="Life Style 🛜",Global Fashion Channel
 https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
