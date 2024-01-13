@@ -194,36 +194,16 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png " group-title="BD Channels 🛜", Ekattor 🇧🇩 TV (720p)
-https://raw.githubusercontent.com/gift4bd/ytm/main/EkattorTV.m3u8
-
+http://195.26.87.217/live.ts?channelId=95&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD Channels 🛜",NTV(Youtube)
 https://sagar-live1.msr-sagar.repl.co/video/VPFE_hUezP8.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD Channels 🛜",NTV 
 https://raw.githubusercontent.com/gift4bd/ytm/main/NTVBD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="BD Channels 🛜",SATV(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="BD Channels 🛜",Desh TV(BD)
-http://103.113.149.52:8000/play/a00c/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="BD Channels 🛜",Ekhon TV (BD)
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://test-otv1.ftpbd.net/channel-logo/jamuna%20tv.png"group-title="BD Channels 🛜", ✅ Jamuna TV 🇧🇩 
+https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="BD Channels 🛜",Jago News 24(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://test-otv1.ftpbd.net/channel-logo/jamuna%20tv.png"" group-title="BD Channels 🛜", ✅ Jamuna TV 🇧🇩 🔥 
-http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png",✅ CHANNEL 24 TV 🇧🇩 🔥
-http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="http://test-otv1.ftpbd.net/channel-logo/Rtv.png",✅ RTV (Jagobd) 🇧🇩 🔥
-http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="BD Channels 🛜" tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png",✅ Channel I(Jagobd) 🇧🇩 🔥
-http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/QRN%20TV1664977301.png " group-title="Religion Islamic", Deen TV HD
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
