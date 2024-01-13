@@ -132,7 +132,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png", TLC (L*)
 https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
-
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png", TLC English
+https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
 
 
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Animal%20Planet1664974986.png", Animal Planet Multi Audio
@@ -148,6 +149,8 @@ https://code.vthanhtivi.pw/getlink/eazie/243127/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel Channel(BD)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel Channel(BD)
+https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Infotainment Channels",Gusto TV
 https://i.mjh.nz/SamsungTVPlus/CABB2500021YQ.m3u8
 
@@ -162,6 +165,8 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 #EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Infotainment Channels",Asian Food Network
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+#EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Infotainment Channels",Asian Food Network
+https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title="Infotainment Channels", Adventure Earth
 https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
@@ -204,6 +209,11 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 ########################## BD Channels ##########################
+#EXTINF:-1 tvg-logo=""group-title="BD Channels 🛜",Kids Creation Arabic
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="BD Channels 🛜",Zee Bangla 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD Channels 🛜",Zee Bangla Cinema (Auto quality) 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD Channels 🛜",Zee Bangla Cinema (Auto quality) 
@@ -211,6 +221,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacin
 #EXTINF:-1 tvg-logo=""group-title="BD Channels 🛜", Jalsha Movies HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="BD Channels 🛜", MAASRANGA-TV
+https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD Channels 🛜", Deepto TV HD
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png " group-title="BD Channels 🛜", Ekattor 🇧🇩 TV (720p)
 http://195.26.87.217/live.ts?channelId=95&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD Channels 🛜",NTV(Youtube)
@@ -263,6 +277,8 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Life Style 🛜" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", ✅ Fashion TV HD 2✅
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Life Style 🛜" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV HD 1 ✅
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/63W4vc03/download-10.jpg" group-title="Life Style 🛜",Global Fashion Channel
 https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
