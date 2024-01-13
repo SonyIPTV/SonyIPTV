@@ -15,7 +15,16 @@ https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
 
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1  🇮🇳 💥SD💥 ✅
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1  🇮🇳 💥HD💥 ✅
+https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports1hdmac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Star Sports 2 HD 📺 ✅
+https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports2hdmac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Star Sports 3 📺 ✅
+https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports3hdmac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Star Sports Select 1 HD 📺 ✅
+https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect1hdmac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Star Sports Select 2 HD 📺 ✅
+https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect2hdmac.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
@@ -145,6 +154,9 @@ https://i.mjh.nz/SamsungTVPlus/CABB2500021YQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Infotainment Channels", Love Nature 4K*
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Infotainment Channels",Food Network(Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
