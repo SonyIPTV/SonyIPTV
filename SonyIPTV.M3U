@@ -212,16 +212,13 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" http://tv.bapacom.net/assets/images/Madani1664977182.png" group-title="Religion Islamic", MADINAH TV HD
-http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="Religion Islamic",Al Sunnah Al Nabawiyah TV (Medina)
 https://edge.taghtia.com/sa/6.m3u8
 
 #EXTINF:-1 tvg-id="AlQuranKareem.id" group-title="Religion Islamic" tvg-logo="https://aqfadtv.xyz/logos/AlQuranAlKareem.png" ch-number="93", Al Quran Al Kareem (Mecca)
 https://edge.taghtia.com/sa/7.m3u8
-
-#EXTINF:-1 tvg-id="IqraaEu" tvg-name="IqraaEu" tvg-logo="https://i.postimg.cc/RCdkNnCv/images-3.png" group-title="Religion Islamic", Iqraa Europe English
-https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
 
 ############################ Life Style 🛜 ##############################
 
