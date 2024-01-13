@@ -3,63 +3,25 @@
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Sky Sports Cricket 📶 HD
+https://247b.mrgamingstreams.com/mrgamingcricket.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ ⭐⭐🟢 . B A N  V . N Z™ 🟢 ⭐⭐ 💥📺💥 ✅
-https://live.himel-himu@1rdk.short.gy/TSports-HD-Bdix/hls/Himel-Op.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Live Match TV 📶 HD
-https://elverruca103.s3.us-east-005.backblazeb2.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢 ⭐⭐ 💥📺💥 ✅
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Football Sports HD ✅
 https://freehdgames.lol/chunklist/hlsch1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢 ⭐⭐ 💥📺💥 ✅
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ TNT Sports 1 HD 📺 ✅
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢 ⭐⭐ 💥📺💥 ✅
-http://142.54.172.138/premium31/playlist.m3u8?ddd=Pl5NHMeCwA
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/National_T20_Cup_2021_Logo.png" group-title="Cricket 🏏", ✅ Ind vs Aus T20 Cup 🇵🇰 💥📺💥 ✅
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_indvsaus_t2004/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Cricket 🏏", ✅ Astro Cricket 1 HD ✅
-http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/157565
 
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1  🇮🇳 💥SD💥 ✅
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="hhttp://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1 SD 🇮🇳 💥
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-
-#EXTINF:0, #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 
-https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD B ▶️
-https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports▶️
-https://ch.bdtubelive.xyz/ayna.m3u8?id=46
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports▶️3
-http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/16633
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", Ten Sports▶️
-http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/151863
-
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Sky Sports Cricket 📶 HD
-https://247b.mrgamingstreams.com/mrgamingcricket.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event Extra TV 📶 HD
 https://edge3-moblive.yuppcdn.net/transsd/smil:eventtvextra.smil/playlist.m3u8
-#EXTINF:0, #EXTINF:-1 tvg-logo="https://toffeelive.com/assets/images/toffee-icon.png" group-title="Cricket 🏏",🔲Cicklife Max 🔲 📶
-http://176.119.29.52:80/live.ts?channelId=125423&uid=3319&deviceMac=00:1A:79:50:31:74
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="Cricket 🏏", T Sports
-https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="Cricket 🏏", Gazi TV
-https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Cricket 🏏" ch-number="" tvg-logo="https://sananda.online/channel-logo/skycricket.png", Sky Sports Cricket 📶
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssc.m3u8
-#EXTINF:-1 tvg-id="" group-title="Cricket 🏏" ch-number="" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/09/SKYMIX-185x278.webp", Sky Sports Main Event 📶
-https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssmain.m3u8
 #EXTINF:-1 tvg-id="" group-title="Cricket 🏏" ch-number="" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/09/SKYMIX-185x278.webp", Sky Sports Main Event 📶BackUp
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Mix HD ▶️ Back
@@ -68,89 +30,25 @@ https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 #EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/WLLOW-logo.png" group-title="Cricket 🏏", 💥TLT + Willow Sports 🇮🇳 (Full HD) ✅
 http://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/GTV.png" group-title="Cricket 🏏", 💥Gazi Sports HD💥BDIX💥
-https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Cricket 🏏", ✅ Astro Cricket 1 HD ✅ Backup 1
-https://epg.pw/stream/3518ec06e22ffdedd358d57645aa473a36b8d1620ea4f8d1bd899bd3be9c913e.ctv
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Cricket 🏏", ✅ Astro Cricket 1 HD ✅ Backup 2
-https://epg.pw/stream/d52dca05051b999b8704274cefd9190ca5b118280ef1914279604efee5e90093.ctv
-
-
-######################### Must USE VPN 🛜 ##########################
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Must USE VPN 📡", ✅ Astro 📡 Cricket official link 👇 ✅
-https://shz.al/~manikastro
-
-######################### FTP 📺 ##########################
-#EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD 📶 𝗙𝗧𝗣 Unique 📶
-http://11plus.live/live/ptv/index.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="FTP 📺", T Sports Akash DTH 📶 𝗙𝗧𝗣 Unique 📶 
-http://172.17.50.112/live/antbd1002/index.m3u8
-#EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="FTP 📺", Star Sports 📶 𝗙𝗧𝗣 Unique 📶 
-http://172.17.50.112/live/fifa2022/index.m3u8 
-#EXTINF:0, #EXTINF:-1 tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="FTP 📺",🔲 T Sports SD 📶 𝗙𝗧𝗣 Unique 📶 
-http://11plus.live/live/tsports/index.m3u8
-#EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="FTP 📺", Star Sports 1 📶 𝗙𝗧𝗣 Unique 📶 
-http://172.17.50.112/live/antbd1001/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starsports2.png" group-title="FTP 📺", ✅ STAR SPORTS 2 HD ✅ 🇮🇳
-http://11plus.live/live/starsports2/index.m3u8
-#EXTINF:0, tvg-logo="http://11plus.live/img/tsports.jpg" group-title="FTP 📺", T Sports HD 📶Unique📶 
-https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
 ######################### FTP 📺 ##########################
 
-#EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1 SD ✅ 🇳🇿
-https://freeiptv25.bdiptv24.repl.co/live/bdix/StarSports1HD.m3u8
-#EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports > 1 < HD ✅ 🇳🇿
-http://103.141.2.37:25461/live/web/web/580.m3u8
-#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starselect1.png" group-title="Cricket 🏏", ✅ Star Sports Select 1 HD ✅
-http://103.141.2.37:25461/live/web/web/579.m3u8
-#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starselect1.png" group-title="Cricket 🏏", ✅ Star Sports Select 1 HD ✅B
-https://ch.bdtubelive.xyz/ayna.m3u8?id=47
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/select2.jpg", ✅Star Sports Select HD 2
-http://103.141.2.37:25461/live/web/web/583.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/star_sports3.jpg", ✅Star Sports HD 3 ✅
-http://103.141.2.37:25461/live/web/web/578.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/sony-5.png", Sony Ten 5 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/sony-5.png", Sony Ten 5 HD B
-http://103.141.2.37:25461/live/web/web/577.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/18.png", Sports 18 HD ENG
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_indvsaus_t2001/master.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/18.png", Sports 18 HD BAN
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099769/hd_akamai_iosmob_avc_ben_indvsaus_t2001/master.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/18.png", Sports 18 HD ENG 2
-https://ch.bdtubelive.xyz/ayna.m3u8?id=44
+######################### FTP 📺 ##########################
 
 ########################## Football 🛜 ##########################
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Bein Sports 6 HD ✅FIFA U 19
-http://node01.nntv.az:8153/ch5/ch5.hi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Sport 1 HD ✅EPL
-http://nl.seetv.cc/play/1522/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ BUNDES LIGA ✅
-http://node01.nntv.az:8153/ch4/ch4.hi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ BeIN Sport 1 HD ✅
-http://nl.seetv.cc/play/1101/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ BeIN Sport 2 HD ✅
-http://nl.seetv.cc/play/1102/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ ONE 2 HD HD ✅
-http://nl.seetv.cc/play/6915/C94BDA70C92CDB2/video.m3u8
 
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://cdn.sincroguia.tv/common/project/img/tv-canales.png",Champions League⚽️
-https://mcdn.mrgamingstreams.com/mrgamingsoccer1.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://www.sonyliv.com/assets/app_launcher_icon/192x192.png", Sony LIV UCL 1
 https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://www.sonyliv.com/assets/app_launcher_icon/192x192.png", Sony LIV UCL 2
 https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png", TNT Sports HD 1
+
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png", SSC Sports HD
 https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", True Sport2 Sports HD
 https://ctrl.laotv.la/live/TSport2/manifest.mpd
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", USA Sports HD 
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", LALIGA HD 
 https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
 
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Sports TV 1 HD Portugal 
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", ESPN Sports 
 https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Sports TV HD Portugal 
 https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
