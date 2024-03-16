@@ -2,17 +2,6 @@
 
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 
-https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Sky Sports Cricket 📶 HD
-https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Football Sports HD ✅
-https://freehdgames.lol/chunklist/hlsch1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ TNT Sports 1 HD 📺 ✅
-https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
-
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1  🇮🇳 💥SD💥 ✅
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1  🇮🇳 💥HD💥 ✅
@@ -55,12 +44,6 @@ https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", LALIGA HD 
 https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
 
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", ESPN Sports 
-https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/XPEdAKh.jpg", Bein Sports HD 
-https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://i.imgur.com/XPEdAKh.jpg", TRT Sports HD
-https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="http://11plus.live/img/sony-2.png", Ten Sports 2 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
